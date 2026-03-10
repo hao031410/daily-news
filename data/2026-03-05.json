@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-05",
+  "60s": {
+    "date": "2026-03-05",
+    "news": [
+      "大会发言人娄勤俭表示：未来十多年，中国中等收入群体可能超 8 亿人",
+      "委员洪明基建议：高考英语由 150 分降至 100 分；委员熊水龙建议：取消在身份证卡片上印制 “住址” 信息",
+      "2025 年前 500 家物业服务企业的物业费平均收缴率已降至 71%，连续四年下滑",
+      "广东高层建筑消防新规将施行：禁止电动自行车及其电池进入电梯",
+      "中国量子手机面世：宣称通话内容无法被窃听，预计今年底或明年初面向民用市场推出",
+      "iPhone17 严重褪色遭集体投诉：有用户反映只用一个月橙色变粉色",
+      "我国再次刷新短距离磁悬浮加速世界纪录，在 5.3 秒内加速至时速 800 公里",
+      "中国石油市值突破 2.14 万亿，时隔七年重夺 A 股市值榜首",
+      "多家券商试水 7×24 小时银证转账，打破传统交易时段限制，实现资金 “随转随用”",
+      "日媒：日防卫省决定扩建硫黄岛自卫队基地，并考虑扩大其 “防空识别区” 范围",
+      "外媒：欧洲天然气价格近期暴涨约 75%，欧盟或将重新讨论俄罗斯天然气进口禁令",
+      "美媒：伊朗称完全控制霍尔木兹海峡，十多艘油轮被炮弹击中；特朗普首次承认与伊朗冲突推高了国际油价",
+      "外媒：特朗普威胁要切断与西班牙贸易往来，因西班牙不支持美国打击伊朗，西班牙回应：美国必须尊重双边协定",
+      "美军潜艇在印度洋击沉一艘伊朗军舰，造成至少 80 人死亡；美防长称美以要一周内完全控制伊朗领空",
+      "外媒：伊朗宣布即将选出新任最高领袖，哈梅内伊之子或有望当选；以色列威胁称，任何成为伊朗最高领袖的人都将成为清除目标"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0UicFnibde0ibZCFK8wm7Yh4fiaiazHdzefDjHPrFIaNGicOoqjdzcqjiaG8hxXchw7n7QG9K9MSouOXXhf6EOxXmhachVmu7IibPFqchiac/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "只有站得足够高，曾经的惊涛骇浪，在眼里也不不过是微风拂面",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-03-05.png",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247497981&idx=1&sn=a67e4283e6238edda69da6a4e22ad7ad",
+    "created": "2026/03/05 02:13",
+    "created_at": 1772647993000,
+    "updated": "2026/03/05 02:13",
+    "updated_at": 1772647993000,
+    "day_of_week": "星期四",
+    "lunar_date": "丙午年正月廿二",
+    "api_updated": "2026/03/10 17:18:27",
+    "api_updated_at": 1773134307115
+  },
+  "ai-news": {
+    "date": "2026-03-05",
+    "news": [
+      {
+        "title": "MiniMax Music 2.5+：解锁你的专属“天空之城”",
+        "detail": "MiniMax发布版本，新增纯音乐创作能力。模型支持古典管弦、极简主义、现代电子、氛围音等多元风格，可生成从零乐器自然声到多轨器乐编排的完整作品，适用于冥想、助眠、广告、游戏配乐及影视配乐场景。",
+        "link": "https://mp.weixin.qq.com/s/8RpTRVsEQwroo77pFh671g",
+        "source": "MiniMax稀宇科技",
+        "date": "2026-03-05"
+      },
+      {
+        "title": "Perplexity与CoreWeave达成多年战略合作，聚焦AI推理基础设施",
+        "detail": "AI云服务企业CoreWeave与AI搜索公司达成多年期战略合作。Perplexity将利用CoreWeave的云算力资源（包括英伟达GB200 NVL机架系统）运行其AI推理工作负载，CoreWeave则将在内部全面部署Perplexity Enterprise Max订阅。此次合作为Perplexity提供高性能、可靠的AI云平台支持，加速其AI工具和智能体的规模化发展。",
+        "link": "https://www.ithome.com/0/926/029.htm",
+        "source": "IT之家",
+        "date": "2026-03-05"
+      }
+    ]
+  },
+  "updatedAt": "2026-03-10T09:18:54.806Z"
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>历史新闻 - 每日新闻</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>📰 每日新闻</h1>
+        <nav>
+            <a href="index.html">今日</a>
+            <a href="history.html" class="active">历史</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="history-header">
+            <h2>历史归档</h2>
+            <div class="filter">
+                <select id="type-filter">
+                    <option value="all">全部</option>
+                    <option value="news">60s 看世界</option>
+                    <option value="ai">AI 资讯</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="calendar-view" id="calendar">
+            <div class="loading">加载历史数据...</div>
+        </div>
+
+        <div class="archive-list" id="archive-list"></div>
+    </main>
+
+    <footer>
+        <p>数据来源: <a href="https://60s.viki.moe" target="_blank">60s API</a> | 
+           <a href="https://github.com/hao031410/daily-news" target="_blank">GitHub</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

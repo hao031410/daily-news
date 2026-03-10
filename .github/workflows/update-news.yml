@@ -1,0 +1,75 @@
+name: Update Daily News
+
+on:
+  schedule:
+    # 每天 08:00 和 10:00 更新 (UTC+8)
+    - cron: '0 0 * * *'
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    
+    - name: Fetch News Data
+      run: |
+        mkdir -p data
+        DATE=$(date +%Y-%m-%d)
+        
+        # Fetch 60s news
+        curl -s "https://60s.viki.moe/v2/60s" > "data/${DATE}-60s.json"
+        
+        # Fetch AI news
+        curl -s "https://60s.viki.moe/v2/ai-news" > "data/${DATE}-ai.json"
+        
+        # Combine into daily file
+        node -e "
+          const fs = require('fs');
+          const date = process.env.DATE;
+          const s60 = JSON.parse(fs.readFileSync('data/' + date + '-60s.json', 'utf8'));
+          const ai = JSON.parse(fs.readFileSync('data/' + date + '-ai.json', 'utf8'));
+          const combined = {
+            date: date,
+            '60s': s60.data || s60,
+            'ai-news': ai.data || ai,
+            updatedAt: new Date().toISOString()
+          };
+          fs.writeFileSync('data/' + date + '.json', JSON.stringify(combined, null, 2));
+          fs.unlinkSync('data/' + date + '-60s.json');
+          fs.unlinkSync('data/' + date + '-ai.json');
+          console.log('Generated: data/' + date + '.json');
+        "
+        
+        # Update archive index
+        node -e "
+          const fs = require('fs');
+          const files = fs.readdirSync('data')
+            .filter(f => f.endsWith('.json') && f !== 'archive.json')
+            .map(f => f.replace('.json', ''))
+            .sort()
+            .reverse();
+          const archive = { dates: files, updatedAt: new Date().toISOString() };
+          fs.writeFileSync('data/archive.json', JSON.stringify(archive, null, 2));
+          console.log('Updated archive.json with ' + files.length + ' dates');
+        "
+      env:
+        DATE: ${{ github.event.schedule == '0 2 * * *' && 'redundant' || '' }}
+    
+    - name: Commit and Push
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add data/
+        git diff --staged --quiet || git commit -m "📰 Update news for $(date +%Y-%m-%d)"
+        git push

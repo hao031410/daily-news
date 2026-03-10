@@ -192,14 +192,14 @@ function escapeHtml(text) {
 
 // Handle date param on index
 const urlParams = new URLSearchParams(window.location.search);
-const viewDate = urlParams.get('date');
-if (viewDate && !window.location.pathname.includes('history')) {
+const dateParam = urlParams.get('date');
+if (dateParam && !window.location.pathname.includes('history')) {
     document.addEventListener('DOMContentLoaded', async () => {
-        document.getElementById('news-date').textContent = `查看日期: ${viewDate}`;
-        document.getElementById('ai-date').textContent = `查看日期: ${viewDate}`;
+        document.getElementById('news-date').textContent = `查看日期: ${dateParam}`;
+        document.getElementById('ai-date').textContent = `查看日期: ${dateParam}`;
         
         try {
-            const data = await fetch(`${DATA_PATH}${viewDate}.json`).then(r => r.json());
+            const data = await fetch(`${DATA_PATH}${dateParam}.json`).then(r => r.json());
             if (data['60s']) renderNewsList('news-list', data['60s'], 'news');
             if (data['ai-news']) renderNewsList('ai-list', data['ai-news'], 'ai');
             document.getElementById('news-loading').style.display = 'none';

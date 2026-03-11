@@ -5,39 +5,116 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>每日新闻 - 60s & AI 资讯</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 </head>
 <body>
-    <header>
-        <h1>📰 每日新闻</h1>
-        <nav>
-            <a href="index.html" class="active">今日</a>
-            <a href="history.html">历史</a>
+    <div class="page-wrapper">
+        <!-- Navigation Bar -->
+        <nav class="top-nav">
+            <div class="nav-container">
+                <a href="index.html" class="nav-logo">
+                    <span class="logo-icon">📰</span>
+                    <span class="logo-text">每日新闻</span>
+                </a>
+                <div class="nav-tabs">
+                    <a href="index.html" class="nav-tab active">今日</a>
+                    <a href="history.html" class="nav-tab">历史</a>
+                </div>
+            </div>
         </nav>
-    </header>
 
-    <main>
-        <div class="tabs">
-            <button class="tab-btn active" data-tab="news">60s 看世界</button>
-            <button class="tab-btn" data-tab="ai">AI 资讯</button>
-        </div>
+        <!-- Hero Section -->
+        <header class="hero">
+            <div class="hero-content">
+                <div class="hero-main">
+                    <div class="hero-badge">
+                        <span class="badge-dot"></span>
+                        <span class="badge-text">每日更新</span>
+                    </div>
+                    <h1 class="hero-title">60 秒看懂世界，AI 洞察未来</h1>
+                    <p class="hero-desc">精选每日科技热点与 AI 前沿动态，助你高效掌握世界脉搏</p>
+                    <!-- Back to today link (shown when viewing historical date) -->
+                    <a href="index.html" class="back-to-today" id="back-to-today" style="display: none;">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M3 9l6-6 6 6M3 15l6-6 6 6"/>
+                        </svg>
+                        回到今天
+                    </a>
+                </div>
 
-        <div id="news-tab" class="tab-content active">
-            <div class="date-info" id="news-date"></div>
-            <div class="loading" id="news-loading">加载中...</div>
-            <div class="news-list" id="news-list"></div>
-        </div>
+                <!-- Status & Summary Bar -->
+                <div class="hero-status-bar">
+                    <div class="status-item">
+                        <span class="status-icon">📅</span>
+                        <div class="status-info">
+                            <span class="status-label">日期</span>
+                            <span class="status-value" id="current-date">-</span>
+                        </div>
+                    </div>
+                    <div class="status-divider"></div>
+                    <div class="status-item">
+                        <span class="status-icon">✅</span>
+                        <div class="status-info">
+                            <span class="status-label">状态</span>
+                            <span class="status-value" id="update-status">更新中</span>
+                        </div>
+                    </div>
+                    <div class="status-divider"></div>
+                    <div class="status-item">
+                        <span class="status-icon">📊</span>
+                        <div class="status-info">
+                            <span class="status-label">内容</span>
+                            <span class="status-value" id="content-summary">加载统计...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
 
-        <div id="ai-tab" class="tab-content">
-            <div class="date-info" id="ai-date"></div>
-            <div class="loading" id="ai-loading">加载中...</div>
-            <div class="news-list" id="ai-list"></div>
-        </div>
-    </main>
+        <main>
+            <!-- Segmented Control -->
+            <div class="segmented-control">
+                <button class="segment-btn active" data-tab="all">
+                    <span class="segment-label">全部</span>
+                </button>
+                <button class="segment-btn" data-tab="news">
+                    <span class="segment-label">
+                        <span class="segment-icon">🌐</span>
+                        60s 看世界
+                    </span>
+                </button>
+                <button class="segment-btn" data-tab="ai">
+                    <span class="segment-label">
+                        <span class="segment-icon">🤖</span>
+                        AI 资讯
+                    </span>
+                </button>
+            </div>
 
-    <footer>
-        <p>数据来源: <a href="https://60s.viki.moe" target="_blank">60s API</a> | 
-           <a href="https://github.com/hao031410/daily-news" target="_blank">GitHub</a></p>
-    </footer>
+            <!-- Tab Contents -->
+            <div id="all-tab" class="tab-content active">
+                <div class="loading" id="all-loading">加载中...</div>
+                <div class="news-grid" id="all-list"></div>
+            </div>
+
+            <div id="news-tab" class="tab-content">
+                <div class="loading" id="news-loading">加载中...</div>
+                <div class="news-list" id="news-list"></div>
+            </div>
+
+            <div id="ai-tab" class="tab-content">
+                <div class="loading" id="ai-loading">加载中...</div>
+                <div class="news-list" id="ai-list"></div>
+            </div>
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                <p class="footer-text">数据来源：<a href="https://60s.viki.moe" target="_blank">60s API</a></p>
+                <p class="footer-text"><a href="https://github.com/hao031410/daily-news" target="_blank">GitHub</a></p>
+            </div>
+        </footer>
+    </div>
 
     <script src="script.js"></script>
 </body>

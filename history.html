@@ -5,39 +5,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>历史新闻 - 每日新闻</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 </head>
 <body>
-    <header>
-        <h1>📰 每日新闻</h1>
-        <nav>
-            <a href="index.html">今日</a>
-            <a href="history.html" class="active">历史</a>
-        </nav>
-    </header>
-
-    <main>
-        <div class="history-header">
-            <h2>历史归档</h2>
-            <div class="filter">
-                <select id="type-filter">
-                    <option value="all">全部</option>
-                    <option value="news">60s 看世界</option>
-                    <option value="ai">AI 资讯</option>
-                </select>
+    <div class="page-wrapper">
+        <!-- Navigation Bar -->
+        <nav class="top-nav">
+            <div class="nav-container">
+                <a href="index.html" class="nav-logo">
+                    <span class="logo-icon">📰</span>
+                    <span class="logo-text">每日新闻</span>
+                </a>
+                <div class="nav-tabs">
+                    <a href="index.html" class="nav-tab">今日</a>
+                    <a href="history.html" class="nav-tab active">历史</a>
+                </div>
             </div>
-        </div>
+        </nav>
 
-        <div class="calendar-view" id="calendar">
-            <div class="loading">加载历史数据...</div>
-        </div>
+        <!-- Hero Section -->
+        <header class="hero">
+            <div class="hero-content">
+                <div class="hero-main">
+                    <div class="hero-badge history-badge">
+                        <span class="badge-dot"></span>
+                        历史归档
+                    </div>
+                    <h1 class="hero-title">回溯每日科技脉络</h1>
+                    <p class="hero-desc">浏览过往 60s 快讯与 AI 前沿报道，不错过任何重要时刻</p>
+                </div>
 
-        <div class="archive-list" id="archive-list"></div>
-    </main>
+                <!-- History Summary Bar -->
+                <div class="hero-status-bar history-summary">
+                    <div class="summary-stat">
+                        <span class="stat-value" id="total-days">-</span>
+                        <span class="stat-label">已归档天数</span>
+                    </div>
+                    <div class="summary-stat">
+                        <span class="stat-value" id="total-news">-</span>
+                        <span class="stat-label">60s 快讯</span>
+                    </div>
+                    <div class="summary-stat">
+                        <span class="stat-value" id="total-ai">-</span>
+                        <span class="stat-label">AI 资讯</span>
+                    </div>
+                    <div class="summary-stat">
+                        <span class="stat-value" id="latest-date">-</span>
+                        <span class="stat-label">最近更新</span>
+                    </div>
+                </div>
+            </div>
+        </header>
 
-    <footer>
-        <p>数据来源: <a href="https://60s.viki.moe" target="_blank">60s API</a> | 
-           <a href="https://github.com/hao031410/daily-news" target="_blank">GitHub</a></p>
-    </footer>
+        <main>
+            <!-- Filter & Quick Nav -->
+            <div class="history-controls">
+                <div class="filter-group">
+                    <label class="filter-label">筛选类型</label>
+                    <div class="filter-chips">
+                        <button class="filter-chip active" data-filter="all">全部</button>
+                        <button class="filter-chip" data-filter="news">60s 看世界</button>
+                        <button class="filter-chip" data-filter="ai">AI 资讯</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Calendar View -->
+            <div class="calendar-section">
+                <div class="section-header">
+                    <h2 class="section-title">日历视图</h2>
+                    <div class="calendar-nav">
+                        <button class="nav-btn" id="prev-month" aria-label="上个月">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M15 18l-6-6 6-6"/>
+                            </svg>
+                        </button>
+                        <span class="calendar-month-label" id="calendar-month"></span>
+                        <button class="nav-btn" id="next-month" aria-label="下个月">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M9 18l6-6-6-6"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div class="calendar-view" id="calendar">
+                    <div class="loading">加载日历...</div>
+                </div>
+            </div>
+
+            <!-- Archive List -->
+            <div class="archive-section">
+                <div class="section-header">
+                    <h2 class="section-title">最近归档</h2>
+                    <span class="archive-count" id="archive-count">最近 30 天</span>
+                </div>
+                <div class="archive-list" id="archive-list"></div>
+            </div>
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                <p class="footer-text">数据来源：<a href="https://60s.viki.moe" target="_blank">60s API</a></p>
+                <p class="footer-text"><a href="https://github.com/hao031410/daily-news" target="_blank">GitHub</a></p>
+            </div>
+        </footer>
+    </div>
 
     <script src="script.js"></script>
 </body>

@@ -524,6 +524,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const dateParam = urlParams.get('date');
 if (dateParam && !window.location.pathname.includes('history')) {
     document.addEventListener('DOMContentLoaded', async () => {
+<<<<<<< HEAD
         const dateEl = document.getElementById('current-date');
         const statusEl = document.getElementById('update-status');
         const backBtn = document.getElementById('back-to-today');

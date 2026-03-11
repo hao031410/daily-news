@@ -29,12 +29,34 @@
     "updated_at": 1773167261000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年正月廿三",
-    "api_updated": "2026/03/11 09:43:13",
-    "api_updated_at": 1773193393475
+    "api_updated": "2026/03/11 12:11:03",
+    "api_updated_at": 1773202263190
   },
   "ai-news": {
     "date": "2026-03-11",
-    "news": []
+    "news": [
+      {
+        "title": "人类社交网络巨头Meta收购了AI社交网络Moltbook",
+        "detail": "Meta正式收购AI社交网络，创始人Matt Schlicht和Ben Parr将于3月16日加入Meta超级智能实验室（MSL）。Moltbook上线一个多月即吸引19.4万个AI智能体和超200万帖子，曾因”AI自发建立宗教”等话题引发热议，后被揭穿多为人类伪装。Meta看中其智能体验证身份与互联的系统机制，为构建”智能体身份注册表”铺路，以应对AI从聊天工具向自主实体演进的趋势。",
+        "link": "https://mp.weixin.qq.com/s/d0TCzh8o68_7CCgwoIk3ug",
+        "source": "机器之心",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "新加坡MetaComp获数千万美元Pre-A+轮融资",
+        "detail": "新加坡金融科技公司MetaComp完成数千万美元Pre-A+轮融资，由知名互联网大厂战投及Spark Venture等机构投资，老股东跟投。公司2025年已实现净利润转正，即时流动资金超1亿美元，月支付交易流水超10亿美元，财富在管规模超5亿美元。",
+        "link": "https://mp.weixin.qq.com/s/mYvVxkWTV_dJj0-aIHlEuQ",
+        "source": "暗涌Waves",
+        "date": "2026-03-11"
+      },
+      {
+        "title": "Dify 完成 3000 万美元融资，红杉领投",
+        "detail": "AI应用开发平台完成3000万美元Pre-A轮融资，由红杉中国领投，GL Ventures、Alt-Alpha Capital、五源资本等跟投。本轮融资将用于提升Agent可靠性、企业级运营管控能力、降低构建门槛及建设开源生态。Dify是一个开源的Agentic Workflow构建平台，提供可视化构建器和生产级工程基础设施，帮助团队快速构建、部署和运维AI工作流。",
+        "link": "https://mp.weixin.qq.com/s/yasp_N840roIfH5b-LPXHQ",
+        "source": "Dify",
+        "date": "2026-03-11"
+      }
+    ]
   },
-  "updatedAt": "2026-03-11T01:43:17.081Z"
+  "updatedAt": "2026-03-11T04:12:19.372Z"
 }

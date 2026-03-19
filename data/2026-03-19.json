@@ -29,12 +29,20 @@
     "updated_at": 1773859699000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年二月初一",
-    "api_updated": "2026/03/19 09:52:25",
-    "api_updated_at": 1773885145469
+    "api_updated": "2026/03/19 12:26:02",
+    "api_updated_at": 1773894362334
   },
   "ai-news": {
     "date": "2026-03-19",
-    "news": []
+    "news": [
+      {
+        "title": "小米推出三款面向面向 Agent 时代的大模型",
+        "detail": "小米连发三款面向Agent时代的大模型： 旗舰基座模型，1T参数/42B激活，1M上下文； 全模态Agent基座，融合文本/视觉/语音，支持GUI操作与工具调用； 语音合成模型，支持多粒度情感控制、方言与歌声。三者分别以”Healer Alpha”和”Hunter Alpha”代号在OpenRouter匿名测试，",
+        "link": "https://mp.weixin.qq.com/s/MW7iUWM-i4cN1AKe21B-Cg",
+        "source": "小米技术",
+        "date": "2026-03-19"
+      }
+    ]
   },
-  "updatedAt": "2026-03-19T01:54:20.150Z"
+  "updatedAt": "2026-03-19T04:26:07.151Z"
 }

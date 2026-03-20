@@ -29,12 +29,20 @@
     "updated_at": 1773944170000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年二月初二",
-    "api_updated": "2026/03/20 09:46:59",
-    "api_updated_at": 1773971219795
+    "api_updated": "2026/03/20 12:16:48",
+    "api_updated_at": 1773980208211
   },
   "ai-news": {
     "date": "2026-03-20",
-    "news": []
+    "news": [
+      {
+        "title": "Cursor推出AI编程模型Composer 2",
+        "detail": "Cursor正式推出，已在Cursor中上线。模型具备前沿级编码能力，定价为每百万输入token 2.50美元，在智能与成本之间实现最优平衡。在CursorBench测试中，Composer 2性能显著优于前代及竞品；在Terminal-Bench 2.0基准测试中得分61.7%，超越Opus 4.6（58.0%）和Composer 1.5（47.9%）。",
+        "link": "https://cursor.com/cn/blog/composer-2",
+        "source": "Cursor",
+        "date": "2026-03-20"
+      }
+    ]
   },
-  "updatedAt": "2026-03-20T01:48:51.296Z"
+  "updatedAt": "2026-03-20T04:16:50.710Z"
 }

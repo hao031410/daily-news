@@ -29,12 +29,34 @@
     "updated_at": 1774205933000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年二月初五",
-    "api_updated": "2026/03/23 09:47:50",
-    "api_updated_at": 1774230470279
+    "api_updated": "2026/03/23 12:22:36",
+    "api_updated_at": 1774239756628
   },
   "ai-news": {
     "date": "2026-03-23",
-    "news": []
+    "news": [
+      {
+        "title": "MiniMax Token Plan：全球首个支持全模态模型的订阅计划",
+        "detail": "MiniMax推出全球首个支持全模态模型的订阅计划Token Plan，在原Coding Plan基础上新增视频、语音、音乐、图像等多模态模型调用能力，一个Key可满足代码编写、内容创作、视频生成等需求。同时推出语音/视频资源包可节省20%成本。",
+        "link": "https://mp.weixin.qq.com/s/o4KGGgtp32vRMecOYCbVmA",
+        "source": "MiniMax 稀宇科技",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "微信推出官方龙虾插件微信ClawBot",
+        "detail": "微信正式推出插件，支持接入 OpenClaw（龙虾）。用户通过「我-设置-插件」获取安装指令，扫码可将龙虾连接至微信，实现聊天式远程操控。目前插件逐步放量中，需更新至微信最新版本。同时，腾讯云 Lighthouse（含企业版 Claw Pro）、自研 WorkBuddy、本地 QClaw 等也已支持微信通道。",
+        "link": "https://mp.weixin.qq.com/s/o_FPvJ0tY6aGqGn4Ea7Rpw",
+        "source": "腾讯",
+        "date": "2026-03-23"
+      },
+      {
+        "title": "智谱推出成长型 AI 生命体GLM-Claw",
+        "detail": "智谱推出智能体，支持打造一群”懂你的AI虾兵”协助处理各类事务。产品定位为个性化AI助手团队，可协同完成复杂任务，提升用户工作与生活效率。通过多智能体协作机制，实现从单一对话向多任务处理的升级。",
+        "link": "https://mp.weixin.qq.com/s/uyroJXpjMr6a52Rs68weiw",
+        "source": "智谱清言",
+        "date": "2026-03-23"
+      }
+    ]
   },
-  "updatedAt": "2026-03-23T01:55:06.026Z"
+  "updatedAt": "2026-03-23T04:31:29.685Z"
 }

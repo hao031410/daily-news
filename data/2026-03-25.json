@@ -29,8 +29,8 @@
     "updated_at": 1774375014000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年二月初七",
-    "api_updated": "2026/03/25 09:51:15",
-    "api_updated_at": 1774403475715
+    "api_updated": "2026/03/25 12:23:55",
+    "api_updated_at": 1774412635934
   },
   "ai-news": {
     "date": "2026-03-25",
@@ -41,8 +41,15 @@
         "link": "https://mp.weixin.qq.com/s/-f35MPQ4CJeO8P-nggCRaQ",
         "source": "APPSO",
         "date": "2026-03-25"
+      },
+      {
+        "title": "MiniMax Office Skills：开源一套生产级办公文档引擎",
+        "detail": "MiniMax宣布开源一套生产级Office文档引擎，包含Word、Excel、PDF、PPT四大组件，采用MIT协议。方案能解决AI生成文档”能用但不好用”的痛点，确保公式、格式、数据透视表等高级功能完整保留。技术选型上，Word采用.NET OpenXML SDK非python-docx，Excel直接操作XML非openpyxl，换取更高保真度。",
+        "link": "https://mp.weixin.qq.com/s/JKkdMqnHQUnpt0UYRsLTTA",
+        "source": "MiniMax 稀宇科技",
+        "date": "2026-03-25"
       }
     ]
   },
-  "updatedAt": "2026-03-25T01:52:36.220Z"
+  "updatedAt": "2026-03-25T04:23:59.592Z"
 }

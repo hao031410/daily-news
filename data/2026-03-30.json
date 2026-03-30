@@ -29,12 +29,34 @@
     "updated_at": 1774806404000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年二月十二",
-    "api_updated": "2026/03/30 10:01:52",
-    "api_updated_at": 1774836112327
+    "api_updated": "2026/03/30 12:48:10",
+    "api_updated_at": 1774846090702
   },
   "ai-news": {
     "date": "2026-03-30",
-    "news": []
+    "news": [
+      {
+        "title": "昆仑万维推出”天工AIGC全家桶”三大核心模型",
+        "detail": "昆仑万维在2026中关村论坛发布”天工AIGC全家桶”三大核心模型：游戏世界模型、视频模型、音乐模型，均跻身世界第一梯队。同时发布”3+1″战略，以4个SOTA大模型为底座，支撑DramaWave短剧、Mureka音乐、猫森学园游戏三大AI原生平台及超级智能体操作系统。",
+        "link": "https://mp.weixin.qq.com/s/iKL2qnxrl9X3rXn9HhOHaA",
+        "source": "昆仑万维集团",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "中国移动推出移动云 MobileClaw 开启公测",
+        "detail": "中国移动移动云开启桌面级AI办公智能体公测（3月24日至4月24日）。产品深度兼容OpenClaw生态，依托万卡智算集群打造，主打”本地优先、隐私至上”，核心数据本地存储，对话不上云，适配Windows和Mac系统，支持写代码、做报表、管邮件等全场景办公功能。",
+        "link": "https://ai-bot.cn/mobileclaw/",
+        "source": "AI工具集",
+        "date": "2026-03-30"
+      },
+      {
+        "title": "智谱GLM-5.1已面向所有Coding Plan用户开放",
+        "detail": "智谱宣布GLM-5.1模型已向所有Coding Plan用户（Lite/Pro/Max三档）开放。模型定位代码生成与编程辅助，覆盖从个人开发者到企业团队的多元需求。全面开放标志着智谱在AI编程助手领域的进一步布局，将与GitHub Copilot、Cursor等工具展开竞争。",
+        "link": "https://mp.weixin.qq.com/s/5g5-cJSuQumzZDVgiCaTuQ?scene=1&click_id=17",
+        "source": "智谱",
+        "date": "2026-03-30"
+      }
+    ]
   },
-  "updatedAt": "2026-03-30T02:04:52.396Z"
+  "updatedAt": "2026-03-30T04:48:14.992Z"
 }

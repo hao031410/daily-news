@@ -29,12 +29,27 @@
     "updated_at": 1774979916000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年二月十四",
-    "api_updated": "2026/04/01 10:08:56",
-    "api_updated_at": 1775009336802
+    "api_updated": "2026/04/01 12:49:18",
+    "api_updated_at": 1775018958929
   },
   "ai-news": {
     "date": "2026-04-01",
-    "news": []
+    "news": [
+      {
+        "title": "OpenAI获1220亿美元史上最大单笔融资纪录",
+        "detail": "OpenAI完成史上最大单轮融资1220亿美元，投后估值达8520亿美元，由亚马逊、英伟达、软银等领投。同时因日均成本高达100万美元且用户留存低迷，OpenAI关闭了视频生成产品Sora。标志着公司战略从惊艳Demo转向务实商业化，聚焦文本模型、代码生成和企业服务等稳定现金流业务，为IPO铺路，意图成为AI基础设施层。",
+        "link": "https://mp.weixin.qq.com/s/STX1FTMPn_p5B37-ZJ3EhA",
+        "source": "APPSO",
+        "date": "2026-04-01"
+      },
+      {
+        "title": "PixVerse推出三项更新：快应用、团队版与CLI工具",
+        "detail": "爱诗科技闪电发布周 Day 2  推出三项更新：快应用、团队版与CLI工具。快应用首批上线”广告大师”，支持商品图一键生成广告视频；团队版支持2-100人协作，提供共享积分池、四级权限及独立空间；CLI工具让开发者通过命令行调用视频生成能力，接入自动化工作流与AI Agent，推动AI视频创作向完整系统升级。",
+        "link": "https://mp.weixin.qq.com/s/rCGvSj_8nuVLRpf2TQzGFw",
+        "source": "爱诗科技 AIsphere",
+        "date": "2026-04-01"
+      }
+    ]
   },
-  "updatedAt": "2026-04-01T02:08:59.428Z"
+  "updatedAt": "2026-04-01T04:49:22.266Z"
 }

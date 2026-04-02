@@ -29,12 +29,34 @@
     "updated_at": 1775068392000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年二月十五",
-    "api_updated": "2026/04/02 09:45:07",
-    "api_updated_at": 1775094307767
+    "api_updated": "2026/04/02 12:32:22",
+    "api_updated_at": 1775104342852
   },
   "ai-news": {
     "date": "2026-04-02",
-    "news": []
+    "news": [
+      {
+        "title": "智谱推出GLM-5V-Turbo：多模态Coding基座模型",
+        "detail": "智谱推出多模态Coding基座模型。模型原生融合视觉与文本能力，支持从设计稿、截图直接生成可运行代码，上下文窗口达200k。模型在多模态Coding、GUI Agent等基准测试中表现领先，深度适配Claude Code与AutoClaw等Agent框架，让AI Agent具备”视觉”能力。",
+        "link": "https://mp.weixin.qq.com/s/QbwTqaQiOoLMlO8xEcPuKw",
+        "source": "智谱",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "OpenClaw推出中国官方镜像站ClawHub镜像站",
+        "detail": "官方推出 ，解决国内访问技能市场缓慢问题。镜像站由字节跳动BytePlus和火山引擎赞助基础设施，提供完整中文界面与数据同步，持续收录社区高质量Skill。用户可通过cn.clawhub-mirror.com直接访问，在OpenClaw中无缝调用各类Agent技能。",
+        "link": "https://ai-bot.cn/clawhub-mirror/",
+        "source": "AI工具集",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "B 站推出 AI 视频创作工具updream",
+        "detail": "B站自研AI创作工具正式开启内测，面向UP主提供轻量化、智能化创作体验。产品采用定向邀请制，创作者需邀请码获得使用权限。updream具备三大核心能力：灵感生成与内容构思、智能剪辑与高效制作、个性化技能库与项目管理。",
+        "link": "https://ai-bot.cn/updream/",
+        "source": "AI工具集",
+        "date": "2026-04-02"
+      }
+    ]
   },
-  "updatedAt": "2026-04-02T01:56:46.505Z"
+  "updatedAt": "2026-04-02T04:32:27.213Z"
 }

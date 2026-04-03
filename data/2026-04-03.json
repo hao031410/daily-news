@@ -29,12 +29,27 @@
     "updated_at": 1775153747000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年二月十六",
-    "api_updated": "2026/04/03 09:56:47",
-    "api_updated_at": 1775181407242
+    "api_updated": "2026/04/03 12:31:18",
+    "api_updated_at": 1775190678707
   },
   "ai-news": {
     "date": "2026-04-03",
-    "news": []
+    "news": [
+      {
+        "title": "谷歌推出 Gemma 4：同等规模下性能最强的开放模型",
+        "detail": "Google 推出  系列开放模型，被称为”同等规模下性能最强”。模型包含 E2B、E4B、26B MoE 和 31B Dense 四个版本，专为高级推理和智能体工作流设计。31B 和 26B 模型在 Arena AI 排行榜上分别位列全球开放模型第3和第6位。全系支持多模态、长上下文及140多种语言，采用 Apache 2.0 许可开源。",
+        "link": "https://mp.weixin.qq.com/s/9ocQ4g2v8zmKuIMcle3sDA",
+        "source": "谷歌开发者",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "OiiOii开放注册，史诗级更新+满血Seedance2.0",
+        "detail": "AI视频平台正式开放注册，接入满血模型，无需排队可生成高质量视频。本次更新新增多宫格分镜预览，告别”抽卡”式创作；推出自由画布模式，支持模型直接选择；上线场景资产与设计师功能，配合人物资产确保画面一致性。同时新增”真人”画风等热门风格，全面提升创作体验与效率。",
+        "link": "https://mp.weixin.qq.com/s/iHf6cntOD79ukbGzLCdLAg",
+        "source": "OiiOii AI",
+        "date": "2026-04-03"
+      }
+    ]
   },
-  "updatedAt": "2026-04-03T01:58:21.993Z"
+  "updatedAt": "2026-04-03T04:32:48.456Z"
 }

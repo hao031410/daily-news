@@ -29,12 +29,27 @@
     "updated_at": 1775497378000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年二月二十",
-    "api_updated": "2026/04/07 10:01:10",
-    "api_updated_at": 1775527270540
+    "api_updated": "2026/04/07 12:05:29",
+    "api_updated_at": 1775534729115
   },
   "ai-news": {
     "date": "2026-04-07",
-    "news": []
+    "news": [
+      {
+        "title": "Karpathy推出自运行个人知识库 LLM Wiki",
+        "detail": "前OpenAI科学家Andrej Karpathy推出  知识库构建方案，引发社区热议。LLM Wiki提出在Agent时代只需分享”想法文件”，由Claude、Codex等Agent自动构建个人知识库。系统分原始数据、Wiki、Schema三层，通过数据摄取、查询、质量检查形成闭环，支持知识持续积累与自我增强，适用于研究、阅读、企业知识管理等场景。",
+        "link": "https://mp.weixin.qq.com/s/-2H3xFx_R4KIIZ_vDpEYQw",
+        "source": "机器之心",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "微软推出全球最精准转录 AI 模型 MAI-Transcribe-1",
+        "detail": "微软推出AI转录模型 ，在FLEURS基准测试中以3.9%字错误率宣称全球最精准，支持25种主要语言，在11种核心语言上登顶，性能超越Whisper-large-v3和Gemini 3.1 Flash。模型批量转录速度达Azure Fast服务2.5倍，定价每小时0.36美元，已在Microsoft Foundry平台开放使用，暂不支持实时转录和说话人分离功能。",
+        "link": "https://www.ithome.com/0/935/617.htm",
+        "source": "IT之家",
+        "date": "2026-04-07"
+      }
+    ]
   },
-  "updatedAt": "2026-04-07T02:01:14.477Z"
+  "updatedAt": "2026-04-07T04:35:46.081Z"
 }

@@ -29,12 +29,27 @@
     "updated_at": 1775673470000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年二月廿二",
-    "api_updated": "2026/04/09 09:52:15",
-    "api_updated_at": 1775699535836
+    "api_updated": "2026/04/09 12:32:49",
+    "api_updated_at": 1775709169034
   },
   "ai-news": {
     "date": "2026-04-09",
-    "news": []
+    "news": [
+      {
+        "title": "Meta 推出原生多模态大模型 Muse Spark",
+        "detail": "Meta超级智能实验室（MSL）推出首个模型，在Artificial Analysis跑分从Llama 4的18分跃升至52分，仅次于GPT-5.4和Gemini 3.1 Pro，推动Meta股价暴涨近10%。模型为原生多模态推理架构，具备视觉思维链、多Agent编排及”沉思模式”，在CharXiv视觉理解和HealthBench健康问答领域表现突出。",
+        "link": "https://mp.weixin.qq.com/s/3e9d8ErFARmaSvW_ehE-GA",
+        "source": "新智元",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "Claude推出企业级托管Agent服务 Claude Managed Agents",
+        "detail": "Claude推出企业级托管Agent服务，能帮助开发者快速构建和部署云托管Agent。产品提供生产级基础设施，包括安全沙箱、长时运行会话、多Agent协调和权限管理。Notion、Rakuten、Asana等企业已采用，实现10倍开发速度提升。产品按使用量计费，现已开放公测。",
+        "link": "https://ai-bot.cn/claude-managed-agents/",
+        "source": "量子位",
+        "date": "2026-04-09"
+      }
+    ]
   },
-  "updatedAt": "2026-04-09T01:54:33.030Z"
+  "updatedAt": "2026-04-09T04:36:26.742Z"
 }

@@ -29,12 +29,34 @@
     "updated_at": 1776014346000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年二月廿六",
-    "api_updated": "2026/04/13 10:03:12",
-    "api_updated_at": 1776045792954
+    "api_updated": "2026/04/13 13:16:35",
+    "api_updated_at": 1776057395536
   },
   "ai-news": {
     "date": "2026-04-13",
-    "news": []
+    "news": [
+      {
+        "title": "MiniMax开源新一代自我进化AI模型 MiniMax M2.7",
+        "detail": "MiniMax正式开源，成为首个由AI深度参与自我迭代的模型，支持构建复杂Agent Harness及Agent Teams等能力，在软件工程与办公场景表现优异。开源首日与华为昇腾、摩尔线程、沐曦、昆仑芯、NVIDIA及Together AI、Fireworks等国内外芯片与推理平台完成适配。",
+        "link": "https://mp.weixin.qq.com/s/2xLm89eZNnQS7PP2aav06w",
+        "source": "MiniMax 稀宇科技",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "MiniMax推出全新AI音乐生成模型 MiniMax Music 2.6",
+        "detail": "MiniMax推出音乐生成模型，新增Cover功能可基于现有歌曲改编风格与编曲，同时优化国风乐器时序演进、中低频表现及人声自然度。模型首包延迟降至20秒内，支持BPM、调性、段落结构等精准指令控制。同步开源三款Music Skill供Agent调用。",
+        "link": "https://mp.weixin.qq.com/s/KYFyMoTxxyP5nbo73pAN9A",
+        "source": "MiniMax 稀宇科技",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "米哈游蔡浩宇AI公司推出首个AI视频模型LPM 1.0",
+        "detail": "米哈游创始人蔡浩宇的AI公司Anuttacon推出首个视频模型。模型拥有170亿参数，支持实时生成能说话、唱歌、倾听并表达情绪的AI角色视频，可保持长时间身份一致性生成（支持22-48分钟视频）。技术上采用扩散Transformer架构与因果式流生成器，解决表现力、实时性与长视频一致性难题。",
+        "link": "https://mp.weixin.qq.com/s/gH8nEfvu9d_iii4FfNOk7w",
+        "source": "量子位",
+        "date": "2026-04-13"
+      }
+    ]
   },
-  "updatedAt": "2026-04-13T02:13:14.910Z"
+  "updatedAt": "2026-04-13T05:16:38.421Z"
 }

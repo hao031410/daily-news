@@ -29,12 +29,27 @@
     "updated_at": 1776190907000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年二月廿八",
-    "api_updated": "2026/04/15 10:05:00",
-    "api_updated_at": 1776218700832
+    "api_updated": "2026/04/15 12:47:50",
+    "api_updated_at": 1776228470503
   },
   "ai-news": {
     "date": "2026-04-15",
-    "news": []
+    "news": [
+      {
+        "title": "百度文心开源文生图模型 ERNIE-Image",
+        "detail": "百度文心正式开源文生图模型，仅8B参数达到开源SOTA水平，在文字渲染、复杂指令遵循等能力上媲美等商业闭源模型。模型24GB显存即可运行，支持中英日韩多语言精准字形生成，已上线ComfyUI并推出GGUF量化方案，相关权重与推理代码已在Hugging Face开源。",
+        "link": "https://mp.weixin.qq.com/s/EtG4iDbft495wD3fTKd1ig",
+        "source": "百度文心",
+        "date": "2026-04-15"
+      },
+      {
+        "title": "李飞飞旗下World Labs开源3D高斯溅射渲染引擎 Spark 2.0",
+        "detail": "李飞飞旗下World Labs开源3D高斯溅射渲染引擎，支持通过WebGL2将超1亿splats的3D世界流式传输至桌面、手机及VR设备。引擎基于Three.js构建，采用连续型LoD高斯溅射树、渐进式流式加载和虚拟内存技术，实现超大规模场景在网页端的实时渲染，解决传统引擎仅支持单对象、缺乏动态动画及设备兼容性差等痛点。",
+        "link": "https://mp.weixin.qq.com/s/4m-RUPdLnzvXSx-cyBqhsQ",
+        "source": "量子位",
+        "date": "2026-04-15"
+      }
+    ]
   },
-  "updatedAt": "2026-04-15T02:05:05.521Z"
+  "updatedAt": "2026-04-15T04:47:53.478Z"
 }

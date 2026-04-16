@@ -29,12 +29,34 @@
     "updated_at": 1776278741000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年二月廿九",
-    "api_updated": "2026/04/16 10:02:09",
-    "api_updated_at": 1776304929056
+    "api_updated": "2026/04/16 12:53:28",
+    "api_updated_at": 1776315208823
   },
   "ai-news": {
     "date": "2026-04-16",
-    "news": []
+    "news": [
+      {
+        "title": "全球首个云端沙箱 Hermes：MaxHermes 正式上线",
+        "detail": "MiniMax正式推出全球首个云端沙箱Hermes——，基于Hermes Agent构建的云端自我进化AI助手。产品核心创新为学习闭环机制：每完成复杂任务自动提炼可复用的Skills能持续自我迭代，配备持久化记忆与多子代理并行能力。产品零门槛部署，已打通飞书、钉钉、企业微信等IM渠道，支持Token Plan抵扣消耗。",
+        "link": "https://mp.weixin.qq.com/s/gTUk7CpQYstYcAMzqClAow",
+        "source": "MiniMax 稀宇科技",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "腾讯混元3D世界模型2.0发布：无缝对接游戏工作流",
+        "detail": "腾讯（HY-World 2.0）正式发布并开源。模型支持文字、图片、视频等多模态输入，可一键生成、重建和模拟完整3D世界，支持导出Mesh/3DGS/点云等可编辑资产，无缝对接Unity/UE游戏引擎。相比1.0版本，2.0采用WorldMirror 2.0架构，画面精细度与真实感大幅提升，支持角色模式自由探索与物理碰撞。",
+        "link": "https://mp.weixin.qq.com/s/0c_q3nGA3_wXKRKK6cUhhw",
+        "source": "腾讯混元",
+        "date": "2026-04-16"
+      },
+      {
+        "title": "网易有道推出 AI 知识库工具”有道宝库”",
+        "detail": "网易有道正式推出首个AI知识库产品。产品定位为”外接超级知识库”，支持文档存储、智能问答及一键生成PPT、播客脚本、研究报告等内容。核心场景包括：30分钟掌握陌生领域知识并生成20页PPT；5分钟自动梳理全年项目文档生成年度总结；上传名人传记可模拟”名人董事会”提供决策建议能生成播客。",
+        "link": "https://mp.weixin.qq.com/s/wiJC_MhW9_fdXiLGnkZMFA",
+        "source": "网易有道",
+        "date": "2026-04-16"
+      }
+    ]
   },
-  "updatedAt": "2026-04-16T02:11:59.725Z"
+  "updatedAt": "2026-04-16T04:53:34.086Z"
 }

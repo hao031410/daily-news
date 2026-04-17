@@ -29,12 +29,34 @@
     "updated_at": 1776365385000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年三月初一",
-    "api_updated": "2026/04/17 10:05:00",
-    "api_updated_at": 1776391500137
+    "api_updated": "2026/04/17 12:51:14",
+    "api_updated_at": 1776401474012
   },
   "ai-news": {
     "date": "2026-04-17",
-    "news": []
+    "news": [
+      {
+        "title": "智谱AutoClaw上线自进化机制与Skill商店",
+        "detail": "智谱AI旗下（澳龙）正式上线自进化机制与Skill商店。自进化功能可自动识别用户纠正、偏好及失败教训，经审批后固化为永久记忆，实现Agent越用越懂用户。平台同步推出GLM Office Skills五件套，基于GLM-5.1支持PPT、Word等细分场景设计、智能自检与格式互转，可一键生成配套办公材料。",
+        "link": "https://mp.weixin.qq.com/s/Ny_TEIIzryV16DbrUQzp8g",
+        "source": "智谱",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "Anthropic 推出最新旗舰大模型 Claude Opus 4.7",
+        "detail": "Anthropic正式推出，定位为当前最强可广泛使用的大模型。核心升级聚焦复杂任务执行、高清视觉理解和长链路工作流稳定性。视觉能力实现质的飞跃，在XBOW测试中从54.5%跃升至98.5%接近满分；编程能力达SWE-bench 80.5%；百万Token长上下文BFS测试从41.2%提升至58.6%。",
+        "link": "https://mp.weixin.qq.com/s/9m9S9Y9q9Fx4gscqizVDmg",
+        "source": "新智元",
+        "date": "2026-04-17"
+      },
+      {
+        "title": "阿里通义开源Qwen3.6-35B-A3B，智能体编程“小钢炮”",
+        "detail": "阿里通义千问团队开源稀疏MoE模型，总参数350亿但激活仅30亿，专为智能体编程优化，性能大幅超越前代同时可媲美更大稠密模型。模型支持多模态推理、思考与非思考双模式，在代码生成、工具调用等基准测试中表现突出。",
+        "link": "https://mp.weixin.qq.com/s/UUTAywz1Nmtv0zl9p0DA4Q",
+        "source": "千问大模型",
+        "date": "2026-04-17"
+      }
+    ]
   },
-  "updatedAt": "2026-04-17T02:08:35.429Z"
+  "updatedAt": "2026-04-17T04:51:17.556Z"
 }

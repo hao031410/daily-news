@@ -29,12 +29,27 @@
     "updated_at": 1776792342000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年三月初六",
-    "api_updated": "2026/04/22 10:07:30",
-    "api_updated_at": 1776823650535
+    "api_updated": "2026/04/22 12:21:43",
+    "api_updated_at": 1776831703608
   },
   "ai-news": {
     "date": "2026-04-22",
-    "news": []
+    "news": [
+      {
+        "title": "OpenAI正式推出图像生成模型ChatGPT Images 2.0",
+        "detail": "OpenAI正式推出），是其首个具备思考能力的图像生成模型。模型在准确性、时效性、一致性和视觉连贯性上表现突出，仅凭简单提示词可生成以假乱真的App截图、TikTok视频界面、商品广告及论文海报等复杂图像，中文文字渲染能力显著提升。",
+        "link": "https://mp.weixin.qq.com/s/uE92m52scoaWbEIjF5wOaQ",
+        "source": "量子位",
+        "date": "2026-04-22"
+      },
+      {
+        "title": "AI互动内容社区Loopit完成1亿美元融资",
+        "detail": "AI互动内容社区母公司涌跃智能完成新一轮5000万美元融资，由全球头部手游厂商Garena领投，蓝驰创投等机构跟投，年内累计融资近1亿美元。Loopit由前百川智能联合创始人陈炜鹏创立，上线两月即登上Google Play全球总榜第8、娱乐榜第1，获马斯克点赞。",
+        "link": "https://mp.weixin.qq.com/s/ra0WiQhqV7PIV-Y-xhvPgg",
+        "source": "蓝驰创投",
+        "date": "2026-04-22"
+      }
+    ]
   },
-  "updatedAt": "2026-04-22T02:07:34.435Z"
+  "updatedAt": "2026-04-22T04:48:36.222Z"
 }

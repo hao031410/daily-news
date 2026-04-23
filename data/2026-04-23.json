@@ -29,8 +29,8 @@
     "updated_at": 1776881264000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年三月初七",
-    "api_updated": "2026/04/23 10:11:43",
-    "api_updated_at": 1776910303247
+    "api_updated": "2026/04/23 12:52:31",
+    "api_updated_at": 1776919951457
   },
   "ai-news": {
     "date": "2026-04-23",
@@ -41,8 +41,22 @@
         "link": "https://www.ithome.com/0/942/362.htm",
         "source": "IT之家",
         "date": "2026-04-23"
+      },
+      {
+        "title": "阿里通义开源稠密多模态模型Qwen3.6-27B",
+        "detail": "阿里通义千问团队开源，拥有270亿参数的稠密多模态模型。模型支持多模态思考与非思考模式，在智能体编程能力上实现旗舰级突破，于SWE-bench、Terminal-Bench等主要编程基准全面超越前代开源旗舰Qwen3.5-397B-A17B。作为稠密架构，模型无需MoE路由可部署，更便于广泛落地。",
+        "link": "https://mp.weixin.qq.com/s/qLG4WWORyIKUvnewmBlqzA",
+        "source": "千问大模型",
+        "date": "2026-04-23"
+      },
+      {
+        "title": "OpenAI开源隐私过滤模型OpenAI Privacy Filter",
+        "detail": "OpenAI开源模型，用于检测和编辑文本中的个人身份信息（PII）。模型总参数15亿，支持128K上下文，可在本地运行。模型基于双向token分类架构，能识别姓名、地址、邮箱、电话、账号、密码等8类隐私信息，在PII-Masking-300k基准上达96% F1分数。",
+        "link": "https://ai-bot.cn/openai-privacy-filter/",
+        "source": "AI工具集",
+        "date": "2026-04-23"
       }
     ]
   },
-  "updatedAt": "2026-04-23T02:11:46.667Z"
+  "updatedAt": "2026-04-23T04:52:33.627Z"
 }

@@ -29,12 +29,19 @@
     "updated_at": 1776967208000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年三月初八",
-    "api_updated": "2026/04/24 10:12:06",
-    "api_updated_at": 1776996726263
+    "api_updated": "2026/04/24 12:03:12",
+    "api_updated_at": 1777003392972
   },
   "ai-news": {
     "date": "2026-04-24",
     "news": [
+      {
+        "title": "DeepSeek推出DeepSeek-V4 预览版",
+        "detail": "DeepSeek全新系列模型  的预览版本正式上线并同步开源，包含deepseek-v4-pro 和 deepseek-v4-flash两个版本，均支持 1M 超长上下文。V4-Pro 在 Agent 编码、世界知识与推理性能上比肩顶级闭源模型；V4-Flash 用更低成本提供接近的推理能力。模型采用全新注意力机制与 DSA 稀疏注意力，大幅降低长上下文计算与显存开销。",
+        "link": "https://mp.weixin.qq.com/s/8bxXqS2R8Fx5-1TLDBiEDg",
+        "source": "DeepSeek",
+        "date": "2026-04-24"
+      },
       {
         "title": "OpenAI 推出最新旗舰大模型GPT-5.5",
         "detail": "OpenAI推出新一代旗舰模型，定位”面向实际工作与智能体的新型智能”。模型与英伟达GB200/GB300 NVL72系统联合设计，在编程、知识工作及科学研究领域全面超越前代与Claude Opus 4.7。GPT-5.5打破”更强必更慢”定律，速度与持平且token消耗更少。",
@@ -51,5 +58,5 @@
       }
     ]
   },
-  "updatedAt": "2026-04-24T02:12:08.541Z"
+  "updatedAt": "2026-04-24T04:56:52.711Z"
 }

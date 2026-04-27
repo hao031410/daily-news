@@ -29,12 +29,27 @@
     "updated_at": 1777227309000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年三月十一",
-    "api_updated": "2026/04/27 10:21:35",
-    "api_updated_at": 1777256495364
+    "api_updated": "2026/04/27 13:26:01",
+    "api_updated_at": 1777267561320
   },
   "ai-news": {
     "date": "2026-04-27",
-    "news": []
+    "news": [
+      {
+        "title": "DeepSeek API输入缓存降价90%",
+        "detail": "DeepSeek官方宣布全系API服务输入缓存命中价格降至原有价格的1/10。缓存命中输入降至0.025元，DeepSeek-V4-Flash降至0.02元。Pro模型在5月5日前可叠加2.5折限时优惠。本次大幅降价为降低开发者调用成本，提升长上下文场景下的API使用性价比。",
+        "link": "https://www.ithome.com/0/943/748.htm",
+        "source": "IT之家",
+        "date": "2026-04-27"
+      },
+      {
+        "title": "小米开源 VLA 大模型 Xiaomi-Robotics-0 后训练全流程",
+        "detail": "小米机器人事业部开源 真机后训练全流程。基于预训练基座，用20小时任务数据可完成耳机收纳等高精度操作。团队通过异步推理、动作前缀及自适应加权、Λ型掩码、随机遮蔽三重策略，破解模型”偷懒效应”，实现动作连贯与视觉灵敏的平衡。",
+        "link": "https://mp.weixin.qq.com/s/yYqj8HnrxNpoL2kFXRqTLw",
+        "source": "小米技术",
+        "date": "2026-04-27"
+      }
+    ]
   },
-  "updatedAt": "2026-04-27T02:26:35.120Z"
+  "updatedAt": "2026-04-27T05:27:04.246Z"
 }

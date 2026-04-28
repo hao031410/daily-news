@@ -29,8 +29,8 @@
     "updated_at": 1777316179000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年三月十二",
-    "api_updated": "2026/04/28 08:26:00",
-    "api_updated_at": 1777335960802
+    "api_updated": "2026/04/28 13:02:51",
+    "api_updated_at": 1777352571662
   },
   "ai-news": {
     "date": "2026-04-28",
@@ -48,8 +48,29 @@
         "link": "https://mp.weixin.qq.com/s/QdywEyR2-GCupUIgXKl_8w",
         "source": "小红书",
         "date": "2026-04-28"
+      },
+      {
+        "title": "OpenAI 和微软联合宣布云合作独家限制正式解除",
+        "detail": "微软与OpenAI修订合作协议，解除云合作独家限制，OpenAI产品仍优先在Azure发布，且可通过任何云提供商向客户提供服务。知识产权授权从独家变为非独家，延至2032年。微软不再向OpenAI支付分成，OpenAI向微软的分成延续至2030年但设总额上限，与技术进展脱钩。微软同时获得独立追求AGI的权利。",
+        "link": "https://mp.weixin.qq.com/s/EzvUOcMzolvZkrkrAwu5VQ?scene=1&click_id=8",
+        "source": "APPSO",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "百度文库网盘联合推出通用智能体GenFlow4.0",
+        "detail": "百度AI DAY推出通用智能体GenFlow4.0，目前通用智能体的月活用户已经突破1亿。新版本全面升级Office Agent，一句话即可生成PPT、处理Excel数据、撰写Word长文档；记忆中心支持自主规划与个性化记忆。同时深度兼容OpenClaw，实现手机电脑无缝协作与Skills跨平台迁移。",
+        "link": "https://mp.weixin.qq.com/s/WIhhmEhPbAX6jm5_lpjWYg",
+        "source": "百度",
+        "date": "2026-04-28"
+      },
+      {
+        "title": "阿里通义推出全新强化学习框架EAPO",
+        "detail": "阿里通义实验室推出全新强化学习框架（Evidence-Augmented Policy Optimization），引入”证据奖励”机制，将监督从答案下沉到证据提取过程，解决大模型长文本推理中”搜对却答错”的幻觉问题。框架基于Qwen3-30B的模型在多个权威长文本基准测试中表现优异，反超120B参数的GPT-OSS和Claude-Sonnet-4等大模型。",
+        "link": "https://mp.weixin.qq.com/s/FDCrB0D3B9BTDBC8TmX9CQ",
+        "source": "通义实验室",
+        "date": "2026-04-28"
       }
     ]
   },
-  "updatedAt": "2026-04-28T02:33:58.681Z"
+  "updatedAt": "2026-04-28T05:33:37.468Z"
 }

@@ -29,12 +29,34 @@
     "updated_at": 1777397234000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年三月十三",
-    "api_updated": "2026/04/29 10:32:00",
-    "api_updated_at": 1777429920347
+    "api_updated": "2026/04/29 12:31:05",
+    "api_updated_at": 1777437065364
   },
   "ai-news": {
     "date": "2026-04-29",
-    "news": []
+    "news": [
+      {
+        "title": "商汤开源日日新系列原生理解生成统一模型SenseNova U1",
+        "detail": "商汤正式开源日日新系列原生理解生成统一模型。模型基于自研NEO-unify架构，摒弃传统拼接式设计，在单一架构内统一多模态理解、推理与生成。本次开源轻量版SenseNova U1 Lite，包含8B稠密网络与A3B MoE网络两个规格。在图像理解、生成编辑及视觉推理等多项基准测试中，达到同量级开源模型SOTA水平。",
+        "link": "https://mp.weixin.qq.com/s/Xot43BpXQLL-xSOYO5f5IQ",
+        "source": "商汤科技SenseTime",
+        "date": "2026-04-29"
+      },
+      {
+        "title": "蚂蚁百灵开源高效Instruct模型Ling-2.6-flash",
+        "detail": "蚂蚁集团旗下百灵大模型宣布  正式开源，同步提供 BF16、FP8、INT4 等多精度版本，模型已上线 Hugging Face 与 ModelScope。模型总参数 104B、激活参数 7.4B，两周前曾以 Elephant Alpha 匿名身份登陆 OpenRouter，迅速获得开发者社区与行业用户的广泛关注。",
+        "link": "https://mp.weixin.qq.com/s/B5nAk9Odu1biL3bIGuuRlQ",
+        "source": "百灵大模型",
+        "date": "2026-04-29"
+      },
+      {
+        "title": "英国AI初创公司Ineffable，完成11亿美元种子轮融资",
+        "detail": "前谷歌DeepMind首席科学家、AlphaGo核心研发者David Silver创立的英国AI公司Ineffable完成11亿美元种子轮融资，估值达51亿美元，本轮融资由红杉资本与光速创投领投，英伟达、谷歌等参投，创欧洲史上最大种子轮纪录。公司致力于打造无需人类数据、通过自主实践探索知识的”超级学习系统”。",
+        "link": "https://mp.weixin.qq.com/s/2HlpvDnb_oa6RiXXqZ-WYA",
+        "source": "智东西",
+        "date": "2026-04-29"
+      }
+    ]
   },
-  "updatedAt": "2026-04-29T02:33:58.829Z"
+  "updatedAt": "2026-04-29T05:28:54.357Z"
 }

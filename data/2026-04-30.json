@@ -29,12 +29,20 @@
     "updated_at": 1777483035000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年三月十四",
-    "api_updated": "2026/04/30 10:34:58",
-    "api_updated_at": 1777516498391
+    "api_updated": "2026/04/30 13:22:00",
+    "api_updated_at": 1777526520546
   },
   "ai-news": {
     "date": "2026-04-30",
-    "news": []
+    "news": [
+      {
+        "title": "腾讯混元开源手机端离线翻译模型Hy-MT1.5-1.8B-1.25bit",
+        "detail": "腾讯混元开源手机端离线翻译模型，将支持33种语言、1056个翻译方向的翻译大模型极致压缩至 440MB，无需联网可在手机本地运行。模型基于1.8B参数的Hy-MT1.5打造，采用Sherry稀疏量化技术（ACL 2026录用），翻译质量超越谷歌翻译等主流系统。",
+        "link": "https://mp.weixin.qq.com/s/GMl4FiB8HRwqZc-1_T9XOw",
+        "source": "腾讯混元",
+        "date": "2026-04-30"
+      }
+    ]
   },
-  "updatedAt": "2026-04-30T02:35:01.015Z"
+  "updatedAt": "2026-04-30T05:32:56.637Z"
 }

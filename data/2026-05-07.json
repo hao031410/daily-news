@@ -29,8 +29,8 @@
     "updated_at": 1778093866000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年三月廿一",
-    "api_updated": "2026/05/07 10:30:51",
-    "api_updated_at": 1778121051157
+    "api_updated": "2026/05/07 12:45:20",
+    "api_updated_at": 1778129120911
   },
   "ai-news": {
     "date": "2026-05-07",
@@ -48,8 +48,29 @@
         "link": "https://mp.weixin.qq.com/s/UggNZv8WQQwpkGMyK94Xsg",
         "source": "智东西",
         "date": "2026-05-07"
+      },
+      {
+        "title": "字节跳动推出统一多模态模型Mamoda2.5",
+        "detail": "字节跳动开源全球首个25B级统一多模态模型，基于Qwen3-VL-8B架构，总参数250亿每次仅激活约3亿。模型实现了文生图、文生视频、视频编辑等全任务SOTA，推理速度比阿里Wan2.2快12倍、比美团LongCat Video快18倍，视频编辑延迟仅9.2秒。模型在多项视频编辑基准测试中排名第一，性能接近闭源Sora和Kling。",
+        "link": "https://ai-bot.cn/mamoda2-5/",
+        "source": "AI工具集",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "无问芯穹再获超7亿融资",
+        "detail": "无问芯穹宣布再获超7亿元融资，由杭州高新金投集团和惠远资本联合领投，持续稳居中国AI原生基础设施公司融资规模之首。公司首发”AI生产力公式”，定位Token经济枢纽，其Agentic MaaS平台日均Token调用量较去年底增长超20倍。",
+        "link": "https://mp.weixin.qq.com/s/RnDh8kRKhFdKE59mQSavkw",
+        "source": "无问芯穹",
+        "date": "2026-05-07"
+      },
+      {
+        "title": "OpenAI开放超大规模AI训练网络协议MRC",
+        "detail": "OpenAI 联合 AMD、博通、英特尔、微软、英伟达五大巨头推出多路径可靠连接（MRC）协议，通过 OCP 向全行业开源。MRC 基于 RoCE 扩展，采用多平面网络设计与自适应数据包喷淋技术，将数据包分散至数百条路径并行传输，避免网络拥塞与热点，使故障恢复从秒级缩短至微秒级。",
+        "link": "https://mp.weixin.qq.com/s/QugylM-Bhdx785Gnxca84w",
+        "source": "量子位",
+        "date": "2026-05-07"
       }
     ]
   },
-  "updatedAt": "2026-05-07T02:31:53.956Z"
+  "updatedAt": "2026-05-07T05:34:31.362Z"
 }

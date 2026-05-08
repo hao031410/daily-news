@@ -29,12 +29,27 @@
     "updated_at": 1778179516000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年三月廿二",
-    "api_updated": "2026/05/08 10:38:08",
-    "api_updated_at": 1778207888533
+    "api_updated": "2026/05/08 12:44:21",
+    "api_updated_at": 1778215461998
   },
   "ai-news": {
     "date": "2026-05-08",
-    "news": []
+    "news": [
+      {
+        "title": "OpenAI 推出三款实时语音模型",
+        "detail": "OpenAI推出三款实时语音模型：具备GPT-5级推理与工具调用能力；支持70多种语言实时互译，每分钟成本仅约0.25元，较人类同传降低百倍；实现低延迟语音转录。三模型均通过Realtime API开放，端到端处理保留语调情感。",
+        "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
+        "source": "openAI",
+        "date": "2026-05-08"
+      },
+      {
+        "title": "OpenAI推出Codex Chrome扩展插件",
+        "detail": "OpenAI 正式推出Chrome扩展插件，支持 Codex 直接操作用户已登录的 Chrome 浏览器，包括读取打开标签页、页面内容及已登录网站信息，支持导航、点击、输入和截图等交互操作。用户可随时停止任务并在设置中管理访问权限，与新网站交互前需经确认。",
+        "link": "https://ai-bot.cn/sites/53.html",
+        "source": "AI工具集",
+        "date": "2026-05-08"
+      }
+    ]
   },
-  "updatedAt": "2026-05-08T02:38:12.799Z"
+  "updatedAt": "2026-05-08T04:54:47.813Z"
 }

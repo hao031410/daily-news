@@ -29,12 +29,27 @@
     "updated_at": 1778266207000,
     "day_of_week": "星期六",
     "lunar_date": "丙午年三月廿三",
-    "api_updated": "2026/05/09 10:31:26",
-    "api_updated_at": 1778293886887
+    "api_updated": "2026/05/09 10:02:50",
+    "api_updated_at": 1778292170100
   },
   "ai-news": {
     "date": "2026-05-09",
-    "news": []
+    "news": [
+      {
+        "title": "阶跃星辰推出实时语音大模型StepAudio 2.5 Realtime",
+        "detail": "阶跃星辰正式推出新一代实时语音大模型，模型具备三大核心能力：顶级副语言能力，可精准感知语调、语速、停顿等情绪细节；千万人设自定义，支持从性格到口癖的精细调节，打造专属AI角色；对话双商领跑，在情商与智商上双重进阶。",
+        "link": "https://mp.weixin.qq.com/s/P0x9EC_L_RRfSU6BQfyckA",
+        "source": "阶跃星辰",
+        "date": "2026-05-09"
+      },
+      {
+        "title": "OpenAI推出网络安全专用模型GPT-5.5-Cyber",
+        "detail": "OpenAI 宣布推出限量预览版，优先向经过审核的网络防御者开放。模型基于 Trusted Access for Cyber（TAC）框架，在 GPT-5.5 基础上降低安全相关任务的拒绝率，支持漏洞验证、恶意软件分析等防御工作流，同时保留对恶意活动的防护。",
+        "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
+        "source": "OpenAI",
+        "date": "2026-05-09"
+      }
+    ]
   },
-  "updatedAt": "2026-05-09T02:31:31.317Z"
+  "updatedAt": "2026-05-09T05:24:14.519Z"
 }

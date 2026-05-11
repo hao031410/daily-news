@@ -29,12 +29,27 @@
     "updated_at": 1778438015000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年三月廿五",
-    "api_updated": "2026/05/11 10:18:22",
-    "api_updated_at": 1778465902801
+    "api_updated": "2026/05/11 14:01:43",
+    "api_updated_at": 1778479303272
   },
   "ai-news": {
     "date": "2026-05-11",
-    "news": []
+    "news": [
+      {
+        "title": "Uncharted Dynamics 获数百万美元融资",
+        "detail": "具身智能底层基础设施公司 Uncharted Dynamics 完成数百万美元种子轮融资，由险峰长青领投。公司聚焦高精度多体动力学求解器研发，为具身智能提供物理层面的”真值地基”，解决现有仿真系统在刚柔耦合、柔性接触等复杂交互中物理失真、导致模型难以迁移至现实的问题。",
+        "link": "https://mp.weixin.qq.com/s/H1UmhlpkKPvSJKczm5qGsQ",
+        "source": "Z Finance",
+        "date": "2026-05-11"
+      },
+      {
+        "title": "中国移动推出MoMA大模型聚合平台与MobileClaw智能体框架",
+        "detail": "2026移动云大会在苏州召开，中国移动围绕”算力新动能、智能新空间”为主题，设8大分论坛及8000㎡展区，吸引超10万人次观展。中国移动发布三大首创：桌面级AI办公智能体、大模型聚合平台、支持电话交互的移动AI云电脑，和AI-eSIM卡及万亿级Token服务体验包，布局吉瓦级AI数据园区。",
+        "link": "https://mp.weixin.qq.com/s/o20vx_EPnduXjqSVFriT0g",
+        "source": "中国移动",
+        "date": "2026-05-11"
+      }
+    ]
   },
-  "updatedAt": "2026-05-11T02:44:43.622Z"
+  "updatedAt": "2026-05-11T06:01:45.754Z"
 }

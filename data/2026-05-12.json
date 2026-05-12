@@ -29,12 +29,27 @@
     "updated_at": 1778524033000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年三月廿六",
-    "api_updated": "2026/05/12 10:36:55",
-    "api_updated_at": 1778553415914
+    "api_updated": "2026/05/12 13:33:42",
+    "api_updated_at": 1778564022050
   },
   "ai-news": {
     "date": "2026-05-12",
-    "news": []
+    "news": [
+      {
+        "title": "OpenAI推出AI网络防御工具Daybreak，斥资40亿美元成立新公司",
+        "detail": "OpenAI宣布成立OpenAI Deployment Company，获超40亿美元初始投资并收购英国AI咨询公司Tomoro，将150名前沿部署工程师嵌入企业，帮助客户将AI部署到销售、法务等核心业务流程，从模型提供商转型为AI经济部署层。同时推出AI网络安全工具，整合最强模型、Codex及安全合作伙伴，自动化漏洞发现与修复，加速网络防御并持续保障软件安全。",
+        "link": "https://mp.weixin.qq.com/s/0NL2sdsv9Ge3MzotCOTUgQ",
+        "source": "机器之心",
+        "date": "2026-05-12"
+      },
+      {
+        "title": "办公小浣熊桌面版 2.0 升级发布",
+        "detail": "商汤桌面版2.0升级发布，从”桌面入口”转型为”执行助手”，新增六大能力：直接读取本地20+格式文件、一句话操控浏览器、⌘K全局快捷唤起、连接飞书/企微/钉钉、本地跨会话记忆、定时自动执行任务。现Mac端已开启首批内测招募，限时免费使用，Windows端预计5月中下旬上线。",
+        "link": "https://mp.weixin.qq.com/s/c25rG1tbuF8BDk0xu751PQ",
+        "source": "商汤小浣熊",
+        "date": "2026-05-12"
+      }
+    ]
   },
-  "updatedAt": "2026-05-12T02:36:59.884Z"
+  "updatedAt": "2026-05-12T05:40:45.819Z"
 }

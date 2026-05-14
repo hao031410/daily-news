@@ -29,12 +29,27 @@
     "updated_at": 1778694487000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年三月廿八",
-    "api_updated": "2026/05/14 10:44:24",
-    "api_updated_at": 1778726664490
+    "api_updated": "2026/05/14 13:34:26",
+    "api_updated_at": 1778736866986
   },
   "ai-news": {
     "date": "2026-05-14",
-    "news": []
+    "news": [
+      {
+        "title": "小米具身智能团队开源自动驾驶大模型 Xiaomi OneVL",
+        "detail": "小米具身智能团队开源一步式潜空间语言视觉推理框架。模型在业内率先实现 VLA、世界模型与潜空间推理的统一，兼具强悍推理能力与高速响应，精度超越显式 CoT，速度对齐潜空间 CoT 方案。在 ROADWork、Impromptu、Alpamayo-R1 等多项基准上达到 SOTA，提供语言与视觉双维度可解释性。",
+        "link": "https://www.ithome.com/0/949/956.htm",
+        "source": "IT之家",
+        "date": "2026-05-14"
+      },
+      {
+        "title": "Runway推出AI视频创作智能体Runway Agent",
+        "detail": "正式推出Runway Agent，对话式AI视频创作智能体。用户仅需描述需求，Agent在单轮对话中完成从概念构思、故事分镜到视觉方向的全流程规划，自动生成包含多场景、配音、对白及配乐的高分辨率成品视频。",
+        "link": "https://runwayml.com/news/introducing-runway-agent",
+        "source": "Runway",
+        "date": "2026-05-14"
+      }
+    ]
   },
-  "updatedAt": "2026-05-14T02:44:28.413Z"
+  "updatedAt": "2026-05-14T05:50:37.385Z"
 }

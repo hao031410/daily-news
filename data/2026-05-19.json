@@ -29,12 +29,34 @@
     "updated_at": 1779129513000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年四月初三",
-    "api_updated": "2026/05/19 08:30:03",
-    "api_updated_at": 1779150603122
+    "api_updated": "2026/05/19 14:11:02",
+    "api_updated_at": 1779171062110
   },
   "ai-news": {
     "date": "2026-05-19",
-    "news": []
+    "news": [
+      {
+        "title": "Lucius 完成数百万美元天使轮融资",
+        "detail": "Lucius 完成数百万美元天使轮融资，由明势创投领投，蓝狮资本担任独家财务顾问。Lucius 聚焦企业组织记忆缺失痛点，通过 AI Teammate 记录问题判断非仅存储答案，已服务 30 余家客户。典型案例 Dubbing AI 接入后社区自解决率从 29% 跃升至 88%。",
+        "link": "https://mp.weixin.qq.com/s/ChnntEbRTygAouKf-SpzoA",
+        "source": "Z Potentials",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "Cursor 上线自研 Agentic 编程模型 Composer 2.5",
+        "detail": "马斯克在X平台邀请用户测试最新版本模型，模型部分调用Colossus 2训练而成。Cursor官方表示，模型基于月之暗面训练，重点提升长任务稳定性与复杂指令遵循能力。技术上采用基于文本反馈的定向强化学习，合成训练规模扩大至前代25倍，使用分片Muon与双网格HSDP优化训练效率。",
+        "link": "https://www.ithome.com/0/952/106.htm",
+        "source": "IT之家",
+        "date": "2026-05-19"
+      },
+      {
+        "title": "腾讯内测操作系统层个人 AI 助手腾讯Marvis",
+        "detail": "腾讯内测操作系统级 AI 助手，由应用宝团队开发，可在用户电脑本地部署 6 个 AI 智能体协同工作。产品支持自然语言指令完成文件管理、系统设置调整、跨模态内容检索及多任务自动化执行，采用云端效率与本地隐私双模式运行，敏感操作设 L2 级硬垂询确认",
+        "link": "https://mp.weixin.qq.com/s/UEKg2imwHA8hzV1kBR6e1g",
+        "source": "腾讯科技",
+        "date": "2026-05-19"
+      }
+    ]
   },
-  "updatedAt": "2026-05-19T02:49:30.253Z"
+  "updatedAt": "2026-05-19T06:11:04.689Z"
 }

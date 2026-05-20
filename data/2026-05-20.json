@@ -29,12 +29,20 @@
     "updated_at": 1779214046000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年四月初四",
-    "api_updated": "2026/05/20 10:49:57",
-    "api_updated_at": 1779245397393
+    "api_updated": "2026/05/20 14:11:18",
+    "api_updated_at": 1779257478634
   },
   "ai-news": {
     "date": "2026-05-20",
-    "news": []
+    "news": [
+      {
+        "title": "谷歌I/O开发者大会推出AI全家桶",
+        "detail": "谷歌I/O 2026大会重磅发布：全新旗舰模型速度达竞品4倍；全能模型亮相，支持自然语言对话改视频；谷歌搜索迎来25年来最大升级，AI Mode月活突破10亿；联合三星及Gentle Monster、Warby Parker推出AI眼镜； 2.0开发平台、个人智能体等同步登场，谷歌正式迈入智能体驱动的Gemini时代",
+        "link": "https://mp.weixin.qq.com/s/_pu5YeWZeRyEEtJ34C89VQ",
+        "source": "智东西",
+        "date": "2026-05-20"
+      }
+    ]
   },
-  "updatedAt": "2026-05-20T02:50:00.333Z"
+  "updatedAt": "2026-05-20T06:11:22.327Z"
 }

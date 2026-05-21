@@ -29,12 +29,19 @@
     "updated_at": 1779300096000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年四月初五",
-    "api_updated": "2026/05/21 10:52:48",
-    "api_updated_at": 1779331968854
+    "api_updated": "2026/05/21 14:06:26",
+    "api_updated_at": 1779343586591
   },
   "ai-news": {
     "date": "2026-05-21",
     "news": [
+      {
+        "title": "智谱推出下一代大模型推理网络架构 ZCube",
+        "detail": "智谱联合驭驯网络与清华大学推出组网架构，针对PD分离推理拥塞难题，取消Spine层，采用扁平化拓扑与单/多轨混合接入。GLM-5.1 coding实测显示，ZCube使交换机及光模块成本降33%，GPU推理吞吐提升15%，首Token时延TTFT P99降40.6%，为下一代超大规模推理集群提供高效底座。",
+        "link": "https://mp.weixin.qq.com/s/JYyLD4U2235obw9WH45v9g",
+        "source": "智谱",
+        "date": "2026-05-21"
+      },
       {
         "title": "腾达Marvis正式上线，无需邀请码",
         "detail": "腾讯操作系统级AI助手（马维斯）正式上线，官网开放Windows、Mac及安卓端下载，无需邀请码即可体验。产品由应用宝团队推出，内置6名24小时在线AI Agent，支持读取本地文件、操作电脑软件与手机App，具备系统级文件MCP服务。",
@@ -44,5 +51,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-21T02:52:52.260Z"
+  "updatedAt": "2026-05-21T06:13:06.792Z"
 }

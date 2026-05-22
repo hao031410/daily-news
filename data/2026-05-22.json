@@ -29,12 +29,27 @@
     "updated_at": 1779389590000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年四月初六",
-    "api_updated": "2026/05/22 10:53:07",
-    "api_updated_at": 1779418387702
+    "api_updated": "2026/05/22 14:10:46",
+    "api_updated_at": 1779430246684
   },
   "ai-news": {
     "date": "2026-05-22",
-    "news": []
+    "news": [
+      {
+        "title": "智谱推出GLM-5.1高速版API，GLM-5.1-highspeed",
+        "detail": "智谱开放平台发布GLM-5.1高速版API ，模型输出速度达400 tokens/s，刷新全球大模型API速度上限。GLM-5.1-highspeed由智谱与TileRT团队联合推出，首次在国产大模型中实现旗舰级能力与极致低延迟兼得。适用AI编程、实时交互、实时语音等对延迟要求极高的场景，现已面向部分企业客户开放。",
+        "link": "https://mp.weixin.qq.com/s/TAVXB_Xuys7_R-SG4oFhOA",
+        "source": "智谱开放平台",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "美团开源数字人视频模型 LongCat-Video-Avatar 1.5",
+        "detail": "美团LongCat团队正式开源数字人视频模型，从开源SOTA迈向商业级应用。模型升级Whisper-large音频编码器，构建高质量多场景数据体系，引入逐帧级GRPO偏好对齐，在唇形同步、物理合理性、长视频稳定性及多人互动上全面跃升。模型采用DMD蒸馏实现8步生成，效率提升约15倍。",
+        "link": "https://mp.weixin.qq.com/s/NcnPZmO9I7dGXRMLy9c7Zw",
+        "source": "龙猫LongCat",
+        "date": "2026-05-22"
+      }
+    ]
   },
-  "updatedAt": "2026-05-22T02:53:12.365Z"
+  "updatedAt": "2026-05-22T06:10:51.250Z"
 }

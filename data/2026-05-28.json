@@ -29,12 +29,34 @@
     "updated_at": 1779902449000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年四月十二",
-    "api_updated": "2026/05/28 10:30:20",
-    "api_updated_at": 1779935420575
+    "api_updated": "2026/05/28 14:14:29",
+    "api_updated_at": 1779948869242
   },
   "ai-news": {
     "date": "2026-05-28",
-    "news": []
+    "news": [
+      {
+        "title": "腾讯推出AI游戏创作平台「代号Craft」",
+        "detail": "腾讯推出AI游戏创作平台，支持赛车、开放世界、RPG、卡牌等多种游戏类型，提供2D/3D海量免费资产库与AIGC能力，让做游戏像玩游戏一样简单。平台联合深圳前海启动”开发者先锋营”线下训练营，为首测开发者提供AI游戏创作学习与实践机会，目前正在招募首批测试用户。",
+        "link": "https://mp.weixin.qq.com/s/csZYzDmJVO__9UsuU_v3nA",
+        "source": "代号Craft",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "Runway 推出 Runway MCP 服务器",
+        "detail": "推出  服务器，将旗下AI视频与图像生成能力接入、ChatGPT、等兼容Agent。用户无需切换上下文，可在对话中直接调用、、GPT Image 2等模型生成营销视频、产品素材及视觉内容。",
+        "link": "https://runwayml.com/news/mcp",
+        "source": "Runway",
+        "date": "2026-05-28"
+      },
+      {
+        "title": "微软推出最强 AI 生图模型 MAI-Image-2.5",
+        "detail": "微软研究院推出最强图像生成模型，在Arena文生图榜单升至第3名，打破此前前5名仅由Google DeepMind和OpenAI占据的局面，较前代提升72分。模型重点增强文字渲染能力，可胜任信息图、海报等商业物料生成，同时在视觉推理、画面细节和风格一致性上显著进步。",
+        "link": "https://www.ithome.com/0/955/873.htm",
+        "source": "IT之家",
+        "date": "2026-05-28"
+      }
+    ]
   },
-  "updatedAt": "2026-05-28T02:44:36.330Z"
+  "updatedAt": "2026-05-28T06:15:30.124Z"
 }

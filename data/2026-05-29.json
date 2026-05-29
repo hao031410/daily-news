@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-29",
+  "60s": {
+    "date": "2026-05-29",
+    "news": [
+      "神舟二十一号航天员乘组已完成全部既定任务，将于近日乘坐神舟二十二号载人飞船返回东风着陆场",
+      "三预警齐发：湖南、云南、贵州、广西等部分地区有大暴雨",
+      "中国首个 “亿级车企” 诞生：上汽集团第 1 亿辆车交付",
+      "比亚迪发布首款 4nm 智驾芯片，已开始量产，承诺主动承担 L2 阶段的 L3、L4 安全责任",
+      "京东外卖发布堂食标准：就餐区超 50% 才算堂食餐厅；外卖新规将落地，美团升级堂食、明厨亮灶标识体系",
+      "四川甘孜：稻城亚丁景区整治期间暂停收取摆渡车交通运输服务费用",
+      "北京互联网法院：未成年人游戏充值、直播打赏等退款纠纷占比 86.4%",
+      "中国香港首次超越瑞士，成全球最大跨境财富管理中心，规模与增速预计将维持领先",
+      "国际金价连续三个交易日下跌，跌破 4400 美元关口，国内金饰价格同步大幅回落",
+      "法拉利推出首款电车，起售价 434 万元，发布当天品牌市值蒸发约 30 亿美元",
+      "印度、欧洲已进入炙烤模式，世界气象组织预警：史上最热一年正在逼近",
+      "美媒：美伊谈判代表就谅解备忘录达成一致，仍需特朗普最终批准",
+      "SpaceX 星舰 V3 首飞五天后，美国联邦航空管理局因发射事故下令停飞",
+      "日本有意向新西兰出口先进的 “最上” 级护卫舰，此前已与澳大利亚签订合同",
+      "美媒：五角大楼已部署进攻古巴所需军队和武器，航母已到相关海域，可随时动手"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0Uiczfrib4ibJsrWcpL35YRibHrX25x1rG8ibbvFia2d0ruoTf2p6OZAlyia4gBib6XakMOdkw4ibOvDiaEMdGXibX0428ays50VUtdH8cwiavU/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "眼下的辛苦皆有意义，熬过眼前难关，往后皆是坦途与晴朗。",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-05-29.png",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247498326&idx=1&sn=df748988578134bb9d01f174698ba769",
+    "created": "2026/05/29 01:36",
+    "created_at": 1779989781000,
+    "updated": "2026/05/29 01:36",
+    "updated_at": 1779989781000,
+    "day_of_week": "星期五",
+    "lunar_date": "丙午年四月十三",
+    "api_updated": "2026/05/29 10:42:14",
+    "api_updated_at": 1780022534066
+  },
+  "ai-news": {
+    "date": "2026-05-29",
+    "news": [
+      {
+        "title": "Anthropic 融资 650 亿美元，融资后估值达9650亿美元",
+        "detail": "Anthropic完成650亿美元H轮融资，投后估值达9650亿美元（约6.56万亿元人民币），预计为IPO前最后一轮私募融资。本轮由Altimeter Capital、Sequoia Capital等机构领投，亚马逊等超大规模云提供商参与，其中亚马逊已宣布投资50亿美元。",
+        "link": "https://www.ithome.com/0/956/837.htm",
+        "source": "IT之家",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "Anthropic 推出旗舰级大语言模型 Claude Opus 4.8",
+        "detail": "Anthropic 推出 Claude 旗舰模型 。模型在终端工程、知识工作等能力大幅提升，部分指标超越未发布的 Mythos。核心改进是诚实性：代码缺陷漏报率降至前代 1/4，过度自信行为概率降至 1/10。Cursor 和 Devin CEO 均给予高度评价。",
+        "link": "https://mp.weixin.qq.com/s/uPiuVhGw5vqo0qJSwaUpnw",
+        "source": "量子位",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "通义千问推出文生图模型评测基准 Qwen-Image-Bench",
+        "detail": "通义实验室推出文生图评测基准 ，包含 56 个细粒度创作考点，配套开源自动化评估模型 Q-Judger。基准由专业艺术家团队参与开发，覆盖世界知识、创作推理、文字渲染、影像叙事、游戏设计等真实创作场景，填补基础生成与专业创作之间的评测鸿沟。",
+        "link": "https://mp.weixin.qq.com/s/J3fHiF1w4NhvvnIgbDOJ3Q?scene=1&click_id=7",
+        "source": "通义实验室",
+        "date": "2026-05-29"
+      },
+      {
+        "title": "清华联合面壁智能开源 Agent 操作系统 PilotDeck",
+        "detail": "面壁智能联合清华THUNLP、OpenBMB等开源智能体操作系统 ，用工作舱取代传统对话框，解决 Agent 记忆黑盒、成本失控、任务被动等痛点。系统支持记忆白盒化、智能路由（成本降70%+）及24小时 Always-on 主动运行，实现多项目并行与端云协同。",
+        "link": "https://mp.weixin.qq.com/s/NlrEYXVbkssFu4ZaWTdJxg?scene=1&click_id=9",
+        "source": "面壁智能",
+        "date": "2026-05-29"
+      }
+    ]
+  },
+  "updatedAt": "2026-05-29T02:48:21.038Z"
+}

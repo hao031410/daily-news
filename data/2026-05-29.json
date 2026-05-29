@@ -29,8 +29,8 @@
     "updated_at": 1779989781000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年四月十三",
-    "api_updated": "2026/05/29 10:42:14",
-    "api_updated_at": 1780022534066
+    "api_updated": "2026/05/29 14:17:10",
+    "api_updated_at": 1780035430180
   },
   "ai-news": {
     "date": "2026-05-29",
@@ -57,6 +57,13 @@
         "date": "2026-05-29"
       },
       {
+        "title": "AstronClaw 上线 Agent Team 模式",
+        "detail": "正式上线Agent Team模式，用户一句指令可自动组建多专业Agent团队，通过流水线、映射归约、监督者三种协作模式并行完成复杂任务的全流程拆解与高质量交付。Agent Team模式配备可视化任务看板，支持、等模型底座，可将传统需数周的产品规划、营销方案等任务压缩至半小时内完成。",
+        "link": "https://mp.weixin.qq.com/s/r0xPlLmwzuX6hyOCPvFOfg",
+        "source": "讯飞开放平台",
+        "date": "2026-05-29"
+      },
+      {
         "title": "清华联合面壁智能开源 Agent 操作系统 PilotDeck",
         "detail": "面壁智能联合清华THUNLP、OpenBMB等开源智能体操作系统 ，用工作舱取代传统对话框，解决 Agent 记忆黑盒、成本失控、任务被动等痛点。系统支持记忆白盒化、智能路由（成本降70%+）及24小时 Always-on 主动运行，实现多项目并行与端云协同。",
         "link": "https://mp.weixin.qq.com/s/NlrEYXVbkssFu4ZaWTdJxg?scene=1&click_id=9",
@@ -65,5 +72,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-29T02:48:21.038Z"
+  "updatedAt": "2026-05-29T06:17:15.035Z"
 }

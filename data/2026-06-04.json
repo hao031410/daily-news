@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-04",
+  "60s": {
+    "date": "2026-06-04",
+    "news": [
+      "2026 年全国统一高考将于 6 月 7 日开考，今年全国高考报名人数为 1290 万人",
+      "教育部：推动高校录取通知书回归 “一页纸”，坚决纠治奢华录取通知书、新生礼盒等不良风气",
+      "豆包：针对专业人群的生产力需求，计划推出豆包专业版",
+      "5 月份中国物流业景气指数为 50.3%，重回扩张区间",
+      "市场监管总局网络餐饮专项抽检结果公布：不合格率为 2.3%",
+      "A 股再登新闻联播：长线外资看好中国，持续加码硬科技",
+      "我国自主研发 T1000 级高性能碳纤维实现批量化生产，单丝直径约 7 微米，强度为钢的 7 至 9 倍",
+      "三星堆 11 件红玉髓珠研究成果公布：实证数千年前中华文明多元一体",
+      "世界杯 1248 人大名单出炉：梅罗和奥乔亚均第六次参赛创纪录，英格兰联赛贡献 200 人最多",
+      "航班管家 DAST：5 月共有 31 条中日航线取消全部航班，比 4 月取消数量有所增加",
+      "美国计划对 60 个经济体额外征收 10% 或 12.5% 的关税",
+      "经合组织将 2026 年全球经济增速预期下调至 2.8%，较今年 3 月预测值下调 0.1 个百分点",
+      "印度多地发布严重高温警报，印媒披露：极端高温单日或致 3400 人死",
+      "俄罗斯时隔四年首曝黄金开采量，官方数据较机构测算高出近五成",
+      "科威特国防部称伊朗无人机袭击了科威特国际机场；科威特宣布驱逐两名伊朗外交官"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0U8UZNKMNj510sDxic5Tc2aic8QKYwFqvJHfbME7tozlrqtmyNgN0ZmmR4X2X7aOsUEmn185TIpZarGSwcCCSJVHTD8icoBVlibbnts/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "所有风雨都不是凭空而来，皆是历练心性的功课，熬过去便格局自开",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-06-04.png",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247498342&idx=1&sn=a8a445ec27e35f1b32ad304fb613ffe9",
+    "created": "2026/06/04 03:19",
+    "created_at": 1780514391000,
+    "updated": "2026/06/04 03:19",
+    "updated_at": 1780514391000,
+    "day_of_week": "星期四",
+    "lunar_date": "丙午年四月十九",
+    "api_updated": "2026/06/04 09:30:58",
+    "api_updated_at": 1780536658589
+  },
+  "ai-news": {
+    "date": "2026-06-04",
+    "news": [
+      {
+        "title": "AI音乐公司 Suno 获4亿美元融资",
+        "detail": "AI音乐独角兽完成4亿美元融资，估值翻倍至54亿美元，由Bond Capital领投，IVP等跟投。公司订阅用户已突破200万，年销售额有望达3亿美元，计划年底扩招70%员工。Suno已与华纳音乐达成和解并签署授权协议，此前仍面临环球、索尼、华纳三大唱片公司的版权侵权诉讼。",
+        "link": "https://mp.weixin.qq.com/s/onjGSsaPZAlUAdZr81mYEg",
+        "source": "Z Potentials",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "月之暗面推出通用型本地 Agent「Kimi Work」Beta版",
+        "detail": "月之暗面推出面向知识工作者的通用型本地Agent 「」 Beta版，随Kimi最新测试版Mac和Windows客户端发布。其内核为，支持安装Skills、运行定时任务，内置Kimi WebBridge浏览器操作能力，可自主创建最多300个子Agent的集群协作。Beta版支持金融分析、科研数据清洗、办公报告生成等场景，目前开放内测。",
+        "link": "https://mp.weixin.qq.com/s/guE7g4kpu_PdrDT0a7DhzA",
+        "source": "月之暗面Kimi",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "京东开源长音视频生成框架 JoyAI-Echo",
+        "detail": "京东推出  长音视频生成框架，通过跨模态音视频记忆库、记忆驱动后训练推理速度提升7.5倍、Director Agent对话式编辑及轻量化实时超分四项技术创新，解决角色一致性、声音稳定性和生成速度三大行业难题。实测显示框架5分钟视频角色与音色高度一致，语音准确率达0.8646，各项指标全面领先。",
+        "link": "https://mp.weixin.qq.com/s/tISrnBhhxZnJmtbyfeB8sg",
+        "source": "京东黑板报",
+        "date": "2026-06-04"
+      },
+      {
+        "title": "Nous Research 推出 Hermes 官方桌面端 Hermes Desktop",
+        "detail": "Nous Research 推出 官方桌面客户端（预览），支持 macOS、Windows 和 Linux 三端。工具具备持久记忆、任务调度、子代理委派、网页浏览、多模态推理及隔离沙箱等核心能力，可直接在本地桌面运行，彻底告别终端命令行。终结了用户长期依赖终端或第三方UI的历史，标志Hermes向更友好的桌面端AI Agent形态演进。",
+        "link": "https://ai-bot.cn/nous-research-hermes-desktop/",
+        "source": "AI工具集",
+        "date": "2026-06-04"
+      }
+    ]
+  },
+  "updatedAt": "2026-06-04T03:35:37.772Z"
+}

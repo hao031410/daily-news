@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-08",
+  "60s": {
+    "date": "2026-06-08",
+    "news": [
+      "中央气象台发布暴雨橙色预警：贵州东南部、广西北部、广东南部沿海等地局地有特大暴雨",
+      "各地考生评价高考数学难度：题很新非常猎奇，前面 1 + 1 后面造飞机",
+      "山东、广东、湖南、湖北、山西、重庆等地公布高考查分时间，多地 6 月 25 日可查",
+      "苏州医保局：将逐步探索在药店收费界面隐藏个人医保账户金额",
+      "央媒曝：化工废料翻新成一次性牙刷，部分流入酒店民宿",
+      "全球首个预制算力中心底座在山东青岛正式启用，词元用电成本下降 30%",
+      "98 版《水浒传》晁盖饰演者、“梅花奖” 获得者张治中去世，享年 70 岁",
+      "世界女排联赛南京站收官战：中国队 3 比 1 逆转战胜波兰队",
+      "5 月末我国外汇储备升至 34422 亿美元，黄金储备连续 19 个月增加",
+      "AI 冲击亚洲外包产业：印度、菲律宾数百万岗位面临转型阵痛",
+      "IMF：印度 2027 年或超越日英成为全球第四大经济体，2031 年挑战德国老三位置",
+      "日本樱岛火山喷发下起 “火山灰雨”，“灰墙” 笼罩市区，街道泥泞不堪",
+      "韩国总统李在明提名新总理人选，韩国或迎 20 年来首位女性总理",
+      "菲律宾总统马科斯被本国民众打 “差评”，成 40 年来第二个净满意度为负的总统",
+      "伊朗要求解冻 240 亿美元资产后, 美国拟将伊朗资产用于海湾国家重建"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0UicRia46AukA52sRRIB9iamJXnLHS7E2Bptd6yHlymG2pmgUIcCHuAf5nAWticFbibniaBOa5s7RiaMxN8ibAA8hzJmZO3Y93ibHdASL1nY/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "人生最大的勇气，不是往前冲，而是在该停下来的时候，真的敢停下来",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-06-08.png",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247498359&idx=1&sn=672534c34cb1c1b3cac228bb12d3cffd",
+    "created": "2026/06/08 01:59",
+    "created_at": 1780855159000,
+    "updated": "2026/06/08 01:59",
+    "updated_at": 1780855159000,
+    "day_of_week": "星期一",
+    "lunar_date": "丙午年四月廿三",
+    "api_updated": "2026/06/08 11:33:21",
+    "api_updated_at": 1780889601145
+  },
+  "ai-news": {
+    "date": "2026-06-08",
+    "news": [
+      {
+        "title": "OpenAI为所有个人用户开放ChatGPT锁定模式",
+        "detail": "OpenAI宣布向所有ChatGPT个人用户（Free、Go、Plus、Pro）开放锁定模式。功能启动后能禁用实时网页浏览、深度研究、Agent模式、图片检索及文件下载等高风险联网功能，仅支持访问缓存内容，同时保留图片上传与生成功能。",
+        "link": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users",
+        "source": "ChatGPT",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "谷歌和 SpaceX 公司达成9.2亿美元云计算合作",
+        "detail": "谷歌与SpaceX达成云计算合作，自2026年10月至2029年6月，谷歌每月向SpaceX支付9.2亿美元（约62.46亿元人民币），租赁约11万张英伟达GPU、CPU等芯片算力，用于AI训练与推理。协议将缓解谷歌算力供应紧张，同时为SpaceX AI业务开辟重要收入来源，为其IPO增添新叙事筹码。",
+        "link": "https://www.ithome.com/0/960/770.htm",
+        "source": "IT之家",
+        "date": "2026-06-08"
+      },
+      {
+        "title": "「华超神控」获亿元天使系列融资",
+        "detail": "新一代AI超声脑机公司华超神控（BCI-Sonics）宣布完成亿元人民币级天使轮系列融资，天使轮由经纬创投领投，天使+轮由德联资本、道远资本联合领投。公司由中科院博士、前GE医疗中国区负责人李昕创立，专注低强度聚焦超声无创脑机接口技术。本轮资金将用于技术验证与产业化落地，推进疼痛、成瘾等适应症临床转化。",
+        "link": "https://mp.weixin.qq.com/s/njxR7rgBPNK6Ui_fISHIlg?scene=1&click_id=20",
+        "source": "36氪",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  "updatedAt": "2026-06-08T03:33:23.776Z"
+}

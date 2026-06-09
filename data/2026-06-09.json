@@ -29,12 +29,27 @@
     "updated_at": 1780940912000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年四月廿四",
-    "api_updated": "2026/06/09 10:43:33",
-    "api_updated_at": 1780973013358
+    "api_updated": "2026/06/09 14:12:10",
+    "api_updated_at": 1780985530319
   },
   "ai-news": {
     "date": "2026-06-09",
-    "news": []
+    "news": [
+      {
+        "title": "高德推出首个3D原生城市世界模型ABot-Earth 0.5",
+        "detail": "高德地图推出，首个3D原生城市世界模型。模型支持图像、文本等多模态输入，可在消费级单卡GPU上10分钟内生成1平方公里高保真3D城市场景。模型基于3D Gaussian Splatting表示，采用原生LoD解码器和滑窗无缝推理策略，覆盖全球190余个国家和地区、300余城市。",
+        "link": "https://mp.weixin.qq.com/s/2juIidWRiQNUZKTzEKvYAw",
+        "source": "高德技术",
+        "date": "2026-06-09"
+      },
+      {
+        "title": "小米推出 MiMo-V2.5-Pro UltraSpeed 模式",
+        "detail": "小米联合TileRT推出 UltraSpeed模式，在通用GPU上实现万亿参数模型生成速度首次突破1000 tokens/s。该模式定价为普通版的3倍，输出速度提升约10倍，仅支持API体验。MiMo-V2.5-Pro UltraSpeed模式采用申请制限时开放，优先审核企业与专业开发者。",
+        "link": "https://www.ithome.com/0/961/659.htm",
+        "source": "IT之家",
+        "date": "2026-06-09"
+      }
+    ]
   },
-  "updatedAt": "2026-06-09T02:43:38.049Z"
+  "updatedAt": "2026-06-09T06:12:13.516Z"
 }

@@ -29,8 +29,8 @@
     "updated_at": 1781461788000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年五月初一",
-    "api_updated": "2026/06/15 11:44:08",
-    "api_updated_at": 1781495048259
+    "api_updated": "2026/06/15 10:06:52",
+    "api_updated_at": 1781489212200
   },
   "ai-news": {
     "date": "2026-06-15",
@@ -50,6 +50,13 @@
         "date": "2026-06-15"
       },
       {
+        "title": "OpenRouter 推出 Fusion 多模型智能融合服务",
+        "detail": "上线  服务，通过多模型并行作答与裁判模型融合，实现高性价比智能输出。DRACO 基准显示，Gemini 3 Flash、Kimi K2.6 与 DeepSeek V4 Pro 的预算组合以半价取得 64.7% 得分，逼近  的 65.3%。该机制具备单模型故障自动替补的鲁棒性，支持 API 直接调用与自定义模型组合。",
+        "link": "https://ai-bot.cn/openrouter-fusion/",
+        "source": "AI工具集",
+        "date": "2026-06-15"
+      },
+      {
         "title": "百度飞桨 PaddleOCR 开源第六代 OCR 模型 PP-OCRv6",
         "detail": "百度飞桨正式推出，首次推出Tiny/Small/Medium三档模型。模型检测与识别精度较v5提升4.9%和5.1%，CPU推理速度最高达前代5.2倍。模型支持50种语言，新增电路板、数码管等工业场景，鲁棒性史上最高。模型现已上线官网并开源至GitHub和HuggingFace。",
         "link": "https://mp.weixin.qq.com/s/9PIkvNXBYDkxabAun02zgg",
@@ -58,5 +65,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-15T03:44:12.685Z"
+  "updatedAt": "2026-06-15T07:24:07.289Z"
 }

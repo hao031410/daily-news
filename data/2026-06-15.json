@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-15",
+  "60s": {
+    "date": "2026-06-15",
+    "news": [
+      "5 月份中国电商物流指数继续回升，总业务量同比增长超 20%",
+      "国铁集团：1 至 5 月全国铁路发送旅客 19.69 亿人次，同比增长 5.7%，创历史同期新高",
+      "数据局：2025 年全国活跃数据总量 1.67 泽字节，同比增长 28.46%",
+      "浙江一地 “取消中考选拔全员直升高中”，当地回应：非一时兴起，为的是稳住本地生源",
+      "北京 43 所院校新增 100 个职业教育专业，“机器人” 成热门专业；同时 52 个专业被撤销",
+      "第二届世界人形机器人运动会赛项增至 50 个，新增乒乓球等赛项",
+      "制冷剂一剂难求，价格同比去年涨超 30%，创近 10 年同期新高",
+      "一公益组织发文：严禁会员在 KTV 等娱乐场所穿着带组织标识服饰",
+      "外籍旅客带少数民族服装出境被拦，6 件上衣 2 件绣片均属于一般文物",
+      "法国科学家发现胰腺衰老有 “程序”，有助早期预防糖尿病",
+      "世界杯球星年收入榜：C 罗稳居榜首，每分钟赚 447 美元，日均收入超 64 万美元；梅西紧随其后",
+      "美媒：因发动机可能意外熄火，美国福特汽车召回超 25 万辆汽车",
+      "日媒：日本航空自卫队将改编为 “航空宇宙自卫队”，其主要作战领域将随之扩展至太空",
+      "美媒：美战机在华盛顿州坠毁引发森林火灾，飞行员弹射逃生，多架直升机参与救火",
+      "伊朗称不会在特朗普宣布的时间签署任何协议；美媒：以色列 “企图破坏” 美伊协议"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0U8aENX1ahF1yRUaIXNluuOKW4JQp1icMYQZ32HmvBMdLQXdV9Jkh2wLVNcicFqaleeG0fkNia9oVXDqCgyYFOG2eRViaib0KPE4vXfw/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "前进不是比谁跑得快，是比谁停下来之后，还愿意重新迈出第一步。",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-06-15.png",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247498387&idx=1&sn=c4c9f78bc6efe5baedaa90dd6371dd1c",
+    "created": "2026/06/15 02:29",
+    "created_at": 1781461788000,
+    "updated": "2026/06/15 02:29",
+    "updated_at": 1781461788000,
+    "day_of_week": "星期一",
+    "lunar_date": "丙午年五月初一",
+    "api_updated": "2026/06/15 11:44:08",
+    "api_updated_at": 1781495048259
+  },
+  "ai-news": {
+    "date": "2026-06-15",
+    "news": [
+      {
+        "title": "智谱AI推出最新旗舰开源模型 GLM-5.2",
+        "detail": "智谱推出模型，支持1M上下文，模型长程任务领先，定位最强国产Coding模型。GLM-5.2 将面向 GLM Coding Plan 全量用户开放，覆盖 Lite / Pro / Max / 团队版。GLM-5.2 API 本周将上线，同时模型也将开源，遵循 MIT 协议。",
+        "link": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+        "source": "智谱",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "大晓机器人完成天使+轮融资，已累计融资数亿美元",
+        "detail": "大晓机器人完成天使+轮融资，上半年累计融资数亿美元，达晨财智、深创投等参投。资金将投入世界模型及软硬一体解决方案。为全球首个开源量产世界模型，多项权威评测第一，支持7分钟长时序视频生成，已实现端侧部署。",
+        "link": "https://mp.weixin.qq.com/s/c5ulAHgSq4YYrhNuzJIBIQ",
+        "source": "商汤科技SenseTime",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "百度飞桨 PaddleOCR 开源第六代 OCR 模型 PP-OCRv6",
+        "detail": "百度飞桨正式推出，首次推出Tiny/Small/Medium三档模型。模型检测与识别精度较v5提升4.9%和5.1%，CPU推理速度最高达前代5.2倍。模型支持50种语言，新增电路板、数码管等工业场景，鲁棒性史上最高。模型现已上线官网并开源至GitHub和HuggingFace。",
+        "link": "https://mp.weixin.qq.com/s/9PIkvNXBYDkxabAun02zgg",
+        "source": "飞桨 PaddlePaddle",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  "updatedAt": "2026-06-15T03:44:12.685Z"
+}

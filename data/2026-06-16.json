@@ -29,8 +29,8 @@
     "updated_at": 1781549468000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年五月初二",
-    "api_updated": "2026/06/16 11:38:26",
-    "api_updated_at": 1781581106574
+    "api_updated": "2026/06/16 14:48:42",
+    "api_updated_at": 1781592522855
   },
   "ai-news": {
     "date": "2026-06-16",
@@ -41,8 +41,36 @@
         "link": "https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww",
         "source": "MiniMax 稀宇科技",
         "date": "2026-06-16"
+      },
+      {
+        "title": "蚂蚁支付宝推出超级生活 AI 助手「AI版支付宝」",
+        "detail": "支付宝推出，用户右滑可进入清爽对话界面，用语音或文字指令办理政务、出行、生活等上万项服务，实现对话即服务。涉及资金变动需用户本人确认，保障安全。AI版已开启邀测，与经典版可自由切换，平台同步开放服务生态，面向10亿用户推进普惠AI。",
+        "link": "https://mp.weixin.qq.com/s/bG3id7bNvBOPfZF811T6Jw",
+        "source": "支付宝",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "硅基流动完成新一轮超 20 亿元融资",
+        "detail": "硅基流动近日完成超20亿元B轮融资，由携程、晶科能源、金蝶、联通、壁仞、蔚来、商汤、巨人网络、国泰君安、纪源资本等产业链头部企业与知名机构联合投资，华兴资本担任独家财务顾问。公司定位”Token工厂”模式，日均Token调用量达数万亿，服务超1000万用户及1万家企业客户，营收同比增长超10倍。",
+        "link": "https://mp.weixin.qq.com/s/vUt5GuHHpEFfKF_q8j4ToA",
+        "source": "硅基流动",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "即梦上线视频生成模型 Seedance2.0 mini",
+        "detail": "上线视频生成模型，主打极致性价比，720P单秒生成成本低至0.16元，用更低价格实现相同生成效果。模型面向广大创作者开放，用户可前往即梦网页端抢先体验首发价，享受高性价比的AI视频创作服务。",
+        "link": "https://mp.weixin.qq.com/s/s3IJ_7GAqv9ZYJU_3ajIaA",
+        "source": "即梦AI",
+        "date": "2026-06-16"
+      },
+      {
+        "title": "火山方舟体验中心上线视频生成模型 Seedance 2.0 mini",
+        "detail": "火山引擎旗下火山方舟体验中心上线Seedance 2.0 mini视频生成模型，并将于近期开放API服务。模型定位高性价比，面向广泛视频创作与规模化生产需求。图生视频定价0.023元/千tokens，视频生视频0.014元/千tokens；按720P规格折算，单秒生成成本约0.5元，相较成本降低约50%。",
+        "link": "https://mp.weixin.qq.com/s/IyQZ97_uTvb3Jd2lK5Iwlg",
+        "source": "第一财经",
+        "date": "2026-06-16"
       }
     ]
   },
-  "updatedAt": "2026-06-16T03:38:34.960Z"
+  "updatedAt": "2026-06-16T07:30:12.153Z"
 }

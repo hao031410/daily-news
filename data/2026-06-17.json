@@ -29,8 +29,8 @@
     "updated_at": 1781634627000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年五月初三",
-    "api_updated": "2026/06/17 11:37:56",
-    "api_updated_at": 1781667476951
+    "api_updated": "2026/06/17 15:13:49",
+    "api_updated_at": 1781680429055
   },
   "ai-news": {
     "date": "2026-06-17",
@@ -62,8 +62,15 @@
         "link": "https://mp.weixin.qq.com/s/N5ac768a8LkhEjOVpkR1dQ",
         "source": "Xiaomi MiMo",
         "date": "2026-06-17"
+      },
+      {
+        "title": "天工3.1重磅发布，上线 Skywork Design 与 Dynamic Workflows",
+        "detail": "昆仑万维重磅推出  3.1，上线Skywork Design与Dynamic Workflows两大新能力，国内外市场同步推出。Skywork Design将设计工作从对话框迁移至无限画布，支持多页面UI项目的可视化迭代与品牌规范统一，解决从Demo到产品的核心门槛。Dynamic Workflows支持多Agent并行调度与动态拆解，可执行规模化任务并自动验证。",
+        "link": "https://mp.weixin.qq.com/s/BshpodcEwshDfKd7PWjzMQ",
+        "source": "昆仑万维集团",
+        "date": "2026-06-17"
       }
     ]
   },
-  "updatedAt": "2026-06-17T03:38:01.412Z"
+  "updatedAt": "2026-06-17T07:13:55.396Z"
 }

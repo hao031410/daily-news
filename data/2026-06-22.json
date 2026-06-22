@@ -29,8 +29,8 @@
     "updated_at": 1782064404000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年五月初八",
-    "api_updated": "2026/06/22 07:09:55",
-    "api_updated_at": 1782083395030
+    "api_updated": "2026/06/22 13:25:02",
+    "api_updated_at": 1782105902324
   },
   "ai-news": {
     "date": "2026-06-22",
@@ -50,6 +50,13 @@
         "date": "2026-06-22"
       },
       {
+        "title": "腾讯QQ邮箱推出 AI Agent专属邮箱服务 Agently Mail",
+        "detail": "腾讯QQ邮箱推出，专为 AI Agent 打造的独立邮箱服务。Agent 可通过微信扫码授权获得专属邮箱地址，与个人邮箱完全隔离，支持收发邮件、管理附件、搜索过滤等完整功能。目前服务已上架腾讯 ，三步安装即可使用。",
+        "link": "https://ai-bot.cn/agently-mail/",
+        "source": "AI工具集",
+        "date": "2026-06-22"
+      },
+      {
         "title": "Claude Code 上线 Artifacts，可将会话过程实时变成网页",
         "detail": "Anthropic宣布支持Artifacts功能，可将代码修改、故障排查等会话内容实时生成为可共享的交互式网页，支持团队同步查看进展。该功能基于完整会话上下文自动生成，页面随工作持续刷新，默认私有且仅限组织内分享。目前Artifacts以Beta形式向Team和Enterprise用户开放。",
         "link": "https://mp.weixin.qq.com/s/aPR99FlupG-jVa9viupuoA",
@@ -58,5 +65,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T03:44:20.063Z"
+  "updatedAt": "2026-06-22T07:27:46.167Z"
 }

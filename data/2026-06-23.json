@@ -29,8 +29,8 @@
     "updated_at": 1782152106000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年五月初九",
-    "api_updated": "2026/06/23 10:48:53",
-    "api_updated_at": 1782182933176
+    "api_updated": "2026/06/23 12:54:49",
+    "api_updated_at": 1782190489928
   },
   "ai-news": {
     "date": "2026-06-23",
@@ -41,8 +41,15 @@
         "link": "https://mp.weixin.qq.com/s/0jokAKAzdxen9ZV9Uj-D7A",
         "source": "智能涌现",
         "date": "2026-06-23"
+      },
+      {
+        "title": "TRAE Work中国版支持豆包2.1，免费体验",
+        "detail": "中国版于模型发布Day0完成接入并同步上线，第一时间免费向全量用户开放体验。豆包2.1是字节跳动全新一代模型，包含Pro与Turbo版本，具备更可靠的通用Agent能力、更稳定的代码工程交付能力及更强劲的多模态基础能力。TRAE IDE暂时仅对速通Ultra与优速通Express用户开放。",
+        "link": "https://mp.weixin.qq.com/s/d3LYtnZ2rkP5hyEB2Jaaeg",
+        "source": "TRAE.ai",
+        "date": "2026-06-23"
       }
     ]
   },
-  "updatedAt": "2026-06-23T02:49:00.913Z"
+  "updatedAt": "2026-06-23T06:10:03.336Z"
 }

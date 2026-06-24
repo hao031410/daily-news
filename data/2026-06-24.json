@@ -29,8 +29,8 @@
     "updated_at": 1782239127000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年五月初十",
-    "api_updated": "2026/06/24 10:49:18",
-    "api_updated_at": 1782269358109
+    "api_updated": "2026/06/24 11:24:01",
+    "api_updated_at": 1782271441114
   },
   "ai-news": {
     "date": "2026-06-24",
@@ -41,8 +41,29 @@
         "link": "https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g",
         "source": "豆包",
         "date": "2026-06-24"
+      },
+      {
+        "title": "火山引擎推出音频创作模型「豆包音频生成模型1.0」",
+        "detail": "火山引擎推出，首次支持文本或音频参考输入，可端到端生成目标音频。模型能在单条Prompt中编排多角色对白、情绪语气、背景音乐与环境氛围，直接产出完整音频作品，可在长时生成中保持音色一致性。",
+        "link": "https://mp.weixin.qq.com/s/iL0uyUjOMUEfudeuDP6wQQ",
+        "source": "火山引擎",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "Anthropic 推出企业级 AI 协作工具 Claude Tag",
+        "detail": "Anthropic 推出  企业级 AI 协作工具，将 AI 从一问一答升级为常驻 Slack 频道的虚拟同事。团队成员可 @Claude 分配任务，工具阁能自动拆解、调用工具、执行并汇报结果，支持多人接力协作、持续性组织记忆、主动监控提醒及异步长任务处理。",
+        "link": "https://mp.weixin.qq.com/s/UdBTSAYRrze7fabryo2EbA",
+        "source": "APPSO",
+        "date": "2026-06-24"
+      },
+      {
+        "title": "百川智能推出医疗增强大模型 Baichuan-M4",
+        "detail": "百川智能联合清华大学推出新一代医疗增强大模型 ，在 HealthBench 三项榜单登顶世界第一，幻觉率仅3.3%为行业最低。Baichuan-M4具备深度主动问诊、全病程记忆、证据锚定及 Agent 调度四大核心能力，由 Baichuan-Harness 自主编排诊疗流程，实现从会答题到会看病的跨越。",
+        "link": "https://mp.weixin.qq.com/s/WBWQFRH5d8z1MBvCMHSWDQ",
+        "source": "百川智能",
+        "date": "2026-06-24"
       }
     ]
   },
-  "updatedAt": "2026-06-24T02:49:24.580Z"
+  "updatedAt": "2026-06-24T06:09:42.256Z"
 }

@@ -29,8 +29,8 @@
     "updated_at": 1782760890000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年五月十六",
-    "api_updated": "2026/06/30 09:00:13",
-    "api_updated_at": 1782781213657
+    "api_updated": "2026/06/30 13:24:01",
+    "api_updated_at": 1782797041028
   },
   "ai-news": {
     "date": "2026-06-30",
@@ -41,8 +41,29 @@
         "link": "https://www.ithome.com/0/970/272.htm",
         "source": "IT之家",
         "date": "2026-06-30"
+      },
+      {
+        "title": "美团开源新一代万亿参数大模型 LongCat-2.0",
+        "detail": "美团正式开源万亿参数大模型 ，模型总参数 1.6T、平均激活 48B，是业界首个在五万卡国产算力集群上完成全流程训练与推理的模型。模型原生支持 1M 超长上下文，专为 Agentic Coding 任务优化，预览版已跻身 OpenRouter 全球调用量前三。",
+        "link": "https://mp.weixin.qq.com/s/Dts7qqLRize4tF3PCx0omQ",
+        "source": "龙猫LongCat",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "腾讯视频推出工业级 AI 漫剧制作平台 WorkRally",
+        "detail": "腾讯视频推出工业级AI漫剧制作平台 ，面向2D/3D动漫及AI仿真人剧，覆盖剧本解析、分镜生成、内容生产到资产管理的完整链路。平台内置S+级影视动漫技能库，支持专家级Agent生成与智能流水线调度，可实现角色一致性管理与穿帮检测。",
+        "link": "https://ai-bot.cn/workrally/",
+        "source": "AI工具集",
+        "date": "2026-06-30"
+      },
+      {
+        "title": "清华系初创「厘清智能」完成数亿元种子轮融资",
+        "detail": "清华系初创厘清智能完成数亿元种子轮融资，顺为资本、红杉中国、高瓴创投等参投。团队由清华AI学院助理教授李一鸣创立，团队平均年龄23岁。公司拒绝”世界模型”标签，定位Physical AI基础设施商，自研数据管线与可微物理引擎，实现Real-to-Sim-Real闭环，可用1%真机数据达同等训练效果。",
+        "link": "https://mp.weixin.qq.com/s/2Okd7vu6obNXTWdITeFysw",
+        "source": "智能涌现",
+        "date": "2026-06-30"
       }
     ]
   },
-  "updatedAt": "2026-06-30T02:53:33.175Z"
+  "updatedAt": "2026-06-30T06:15:03.034Z"
 }

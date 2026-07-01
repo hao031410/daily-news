@@ -29,8 +29,8 @@
     "updated_at": 1782845595000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年五月十七",
-    "api_updated": "2026/07/01 07:30:01",
-    "api_updated_at": 1782862201534
+    "api_updated": "2026/07/01 12:00:13",
+    "api_updated_at": 1782878413822
   },
   "ai-news": {
     "date": "2026-07-01",
@@ -48,8 +48,15 @@
         "link": "https://www.ithome.com/0/970/812.htm",
         "source": "IT之家",
         "date": "2026-07-01"
+      },
+      {
+        "title": "Anthropic 推出 AI 科研工作平台 Claude Science",
+        "detail": "Anthropic 推出面向科学家的AI工作平台 。平台提供统合式研究环境，可帮助科研人员分析文献、执行多步骤研究、生成详细成果，支持反复完善图表与文稿直至发表标准。每个输出均提供可审计的生成历史记录，确保结果可验证与复现。平台内置超60种精选技能与连接器，配备审阅智能体进行核查。",
+        "link": "https://www.ithome.com/0/970/873.htm",
+        "source": "IT之家",
+        "date": "2026-07-01"
       }
     ]
   },
-  "updatedAt": "2026-07-01T03:23:19.068Z"
+  "updatedAt": "2026-07-01T06:36:09.005Z"
 }

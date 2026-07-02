@@ -29,8 +29,8 @@
     "updated_at": 1782929823000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年五月十八",
-    "api_updated": "2026/07/02 10:49:43",
-    "api_updated_at": 1782960583998
+    "api_updated": "2026/07/02 14:01:04",
+    "api_updated_at": 1782972064150
   },
   "ai-news": {
     "date": "2026-07-02",
@@ -41,8 +41,22 @@
         "link": "https://mp.weixin.qq.com/s/DmsxpeDbSN5a7hJobAGEFA",
         "source": "智东西",
         "date": "2026-07-02"
+      },
+      {
+        "title": "AI 版支付宝开放公测，无需邀请码即可体验",
+        "detail": "支付宝AI智能体”“结束内测，正式面向iOS和安卓用户开放公测，无需邀请码即可体验。用户可在应用商店或支付宝App内搜索”阿宝”或”蚂蚁阿宝”可直接使用。阿宝从海量办事服务中整理出72项技能，涵盖居家保洁、出行订票、购物优惠、社保查询、账单分析等72项生活服务，支持模糊口语理解、全场景服务覆盖及长期陪伴互动。",
+        "link": "https://mp.weixin.qq.com/s/4sza7cwddXfoW2ZOPVfBdg",
+        "source": "支付宝",
+        "date": "2026-07-02"
+      },
+      {
+        "title": "xAI推出生产级语音智能体平台 Voice Agent Builder",
+        "detail": "xAI推出测试版，基于Grok Voice端到端语音模型的零代码生产级语音智能体平台。用户用自然语言描述，2分钟可配置智能体，支持SIP接入、知识库实时检索、Google Calendar等工具连接及MCP集成。平台提供80+内置语音和品牌克隆功能，具备完整可观测性与护栏机制。",
+        "link": "https://ai-bot.cn/voice-agent-builder/",
+        "source": "AI工具集",
+        "date": "2026-07-02"
       }
     ]
   },
-  "updatedAt": "2026-07-02T02:49:49.180Z"
+  "updatedAt": "2026-07-02T06:02:24.276Z"
 }

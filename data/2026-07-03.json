@@ -29,12 +29,20 @@
     "updated_at": 1783020307000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年五月十九",
-    "api_updated": "2026/07/03 10:32:38",
-    "api_updated_at": 1783045958760
+    "api_updated": "2026/07/03 13:56:31",
+    "api_updated_at": 1783058191928
   },
   "ai-news": {
     "date": "2026-07-03",
-    "news": []
+    "news": [
+      {
+        "title": "谷歌开源零样本表格基础模型 TabFM",
+        "detail": "谷歌开源零样本表格基础模型，支持对混合数值与类别特征的结构化数据进行分类和回归，无需微调或超参数搜索。模型在数百亿合成表格数据上预训练，采用Transformer序列架构，在TabArena基准51个数据集上超越梯度提升树等强基线。",
+        "link": "https://ai-bot.cn/tabfm/",
+        "source": "AI工具集",
+        "date": "2026-07-03"
+      }
+    ]
   },
-  "updatedAt": "2026-07-03T02:32:41.566Z"
+  "updatedAt": "2026-07-03T05:56:35.831Z"
 }

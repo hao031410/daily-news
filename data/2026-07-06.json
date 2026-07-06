@@ -29,8 +29,8 @@
     "updated_at": 1783275918000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年五月廿二",
-    "api_updated": "2026/07/06 10:44:40",
-    "api_updated_at": 1783305880851
+    "api_updated": "2026/07/06 03:11:18",
+    "api_updated_at": 1783278678737
   },
   "ai-news": {
     "date": "2026-07-06",
@@ -43,13 +43,27 @@
         "date": "2026-07-06"
       },
       {
+        "title": "美团 LongCat-2.0 开源，同步开放国产卡推理代码",
+        "detail": "美团正式开源万亿参数大模型，总参数 1.6T、平均激活 48B，专为 Agentic Coding 任务设计。模型创新性引入 LongCat 稀疏注意力与 N-gram Embedding，提升长上下文处理与代码执行表现，率先在五万卡国产算力集群上完成推理验证。本次开源同步提供 BF16/FP8/INT8 多精度版本及国产芯片优化推理代码。",
+        "link": "https://mp.weixin.qq.com/s/5YW7Z-lufAvu-4aNZ1lVGw",
+        "source": "龙猫LongCat",
+        "date": "2026-07-06"
+      },
+      {
         "title": "生数科技推出实时交互模型 Vidu S1",
         "detail": "生数科技在2026全球数字经济大会推出实时交互模型。模型支持语音控制视频走向、无限时长连续互动，可达540P分辨率与25FPS流畅帧率。用户上传一张图片可创建真人、动漫或萌宠等个性化交互角色，无需建模训练。",
         "link": "https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ",
         "source": "生数科技",
         "date": "2026-07-06"
+      },
+      {
+        "title": "Mistral AI 开源形式化验证大模型 Leanstral 1.5",
+        "detail": "Mistral AI 开源形式化验证大模型 ，专为 Lean 4 自动定理证明优化。模型采用 119B 参数 MoE 架构，每 token 仅激活 6.5B 参数，支持 256k 超长上下文与图文输入。在 miniF2F、PutnamBench 等数学证明基准上达到 SOTA 性能。模型已开源至 HuggingFace，支持本地部署与在线体验。",
+        "link": "https://ai-bot.cn/leanstral-1-5/",
+        "source": "AI工具集",
+        "date": "2026-07-06"
       }
     ]
   },
-  "updatedAt": "2026-07-06T02:44:45.370Z"
+  "updatedAt": "2026-07-06T06:39:25.077Z"
 }

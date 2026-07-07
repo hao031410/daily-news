@@ -29,12 +29,27 @@
     "updated_at": 1783365528000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年五月廿三",
-    "api_updated": "2026/07/07 10:40:33",
-    "api_updated_at": 1783392033718
+    "api_updated": "2026/07/07 14:09:34",
+    "api_updated_at": 1783404574703
   },
   "ai-news": {
     "date": "2026-07-07",
-    "news": []
+    "news": [
+      {
+        "title": "字节跳动推出超长程评测集 EdgeBench",
+        "detail": "字节跳动Seed团队推出超长程评测集，用于衡量AI Agent在真实世界环境中的持续学习能力。评测集包含134个真实任务，覆盖科学、软件工程、知识工作等六大领域，每个任务支持12小时以上连续运行。研究发现，Agent在环境交互中的学习轨迹遵循高精度log-sigmoid曲线，且前沿模型的学习速度每三个月翻一倍。",
+        "link": "https://mp.weixin.qq.com/s/TRdasyCjWlExZTilsYi_bg",
+        "source": "字节跳动Seed",
+        "date": "2026-07-07"
+      },
+      {
+        "title": "支付宝 AI 开放平台开放邀测",
+        "detail": "正式上线并开放邀测，面向商家与开发者提供一次接入、多端分发的AI化升级服务。商家可将存量小程序和API一键升级为MCP、Skill或Agent，通过触达支付宝10亿用户，同时跨端覆盖手机、车机、AI眼镜等智能终端。",
+        "link": "https://mp.weixin.qq.com/s/DIgQpqW_L3Pu__7Uxi61EA",
+        "source": "支付宝",
+        "date": "2026-07-07"
+      }
+    ]
   },
-  "updatedAt": "2026-07-07T02:40:37.688Z"
+  "updatedAt": "2026-07-07T06:11:37.948Z"
 }

@@ -29,8 +29,8 @@
     "updated_at": 1783534455000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年五月廿五",
-    "api_updated": "2026/07/09 08:07:19",
-    "api_updated_at": 1783555639056
+    "api_updated": "2026/07/09 04:09:58",
+    "api_updated_at": 1783541398330
   },
   "ai-news": {
     "date": "2026-07-09",
@@ -41,8 +41,22 @@
         "link": "https://mp.weixin.qq.com/s/COjQ-auPvV9Cc3AFZZxzbg",
         "source": "字节跳动Seed",
         "date": "2026-07-09"
+      },
+      {
+        "title": "OpenAI 推出的新一代语音模型 GPT-Live",
+        "detail": "OpenAI推出全新语音交互模型，支持实时同声传译与全双工对话，用户可随时插话打断。模型支持自定义推理强度，并引入深度任务委托机制，前台保持流畅语音交互的同时，后台可并行处理联网搜索、复杂推理等任务。在对话中可实时弹出天气、赛事等可视化卡片。",
+        "link": "https://mp.weixin.qq.com/s/UKbOCJcDJp9D3RSS9CTu9g",
+        "source": "量子位",
+        "date": "2026-07-09"
+      },
+      {
+        "title": "SpaceXAI推出新一代旗舰大语言模型 Grok 4.5",
+        "detail": "SpaceXAI推出旗舰模型，采用1.5T参数MoE架构并与Cursor联合训练，性能对标Claude Opus。模型推理速度达80 TPS，编程能力在DeepSWE Bench上超越Opus 4.8，且Token效率提升4倍以上，支持50万上下文，下周将升级至百万，月底还将推出2T参数版本。",
+        "link": "https://mp.weixin.qq.com/s/cSNPCSgkPhXjL7CG9ELYFQ",
+        "source": "量子位",
+        "date": "2026-07-09"
       }
     ]
   },
-  "updatedAt": "2026-07-09T02:32:14.110Z"
+  "updatedAt": "2026-07-09T06:08:10.546Z"
 }

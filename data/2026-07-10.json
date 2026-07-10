@@ -29,8 +29,8 @@
     "updated_at": 1783621994000,
     "day_of_week": "星期五",
     "lunar_date": "丙午年五月廿六",
-    "api_updated": "2026/07/10 07:08:33",
-    "api_updated_at": 1783638513492
+    "api_updated": "2026/07/10 07:43:34",
+    "api_updated_at": 1783640614203
   },
   "ai-news": {
     "date": "2026-07-10",
@@ -48,8 +48,15 @@
         "link": "https://www.ithome.com/0/974/775.htm",
         "source": "IT之家",
         "date": "2026-07-10"
+      },
+      {
+        "title": "OpenAI 推出 ChatGPT 智能体工作台 ChatGPT Work",
+        "detail": "OpenAI推出全新智能体。产品由与驱动，定位为可承担长时间、多步骤任务的智能体，支持跨网页、移动设备和桌面平台完成实际工作。用户只需通过单一指令描述目标，可让AI接管整个工作流程，利用应用和文件上下文创建文档、幻灯片、分析、网站和报告。",
+        "link": "https://www.ithome.com/0/974/789.htm",
+        "source": "IT之家",
+        "date": "2026-07-10"
       }
     ]
   },
-  "updatedAt": "2026-07-10T02:34:47.037Z"
+  "updatedAt": "2026-07-10T06:07:01.008Z"
 }

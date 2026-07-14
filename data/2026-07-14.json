@@ -29,8 +29,8 @@
     "updated_at": 1783969872000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年六月初一",
-    "api_updated": "2026/07/14 08:17:36",
-    "api_updated_at": 1783988256573
+    "api_updated": "2026/07/14 12:53:29",
+    "api_updated_at": 1784004809702
   },
   "ai-news": {
     "date": "2026-07-14",
@@ -41,8 +41,29 @@
         "link": "https://mp.weixin.qq.com/s/mWK96cTdJfCcw-N1U0AMpw",
         "source": "爱诗科技 AIsphere",
         "date": "2026-07-14"
+      },
+      {
+        "title": "阶跃星辰推出首款大模型原生智能体手机 STEPX Neo",
+        "detail": "阶跃星辰推出首款AI智能体手机，搭载自研智能体原生操作系统Step AOS，内置系统级个人智能体Amoo。用户可通过自然语言指令实现跨应用自主调度。系统具备长期记忆、端云协同能力，支持”能端则端、需云则云”的灵活任务路由。首批生态合作伙伴包括支付宝、美团、高德、滴滴、京东、百度等主流应用。",
+        "link": "https://mp.weixin.qq.com/s/zJ85sWEPlmGKWSFfGIae1g",
+        "source": "智东西",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "爱诗科技推出首个实时视频游戏引擎 PixVerse Game",
+        "detail": "爱诗科技亮相联合国AI for Good全球峰会，联合创始人谢旭璋展示实时视频、世界模型与AI互动娱乐最新探索，发布首个实时视频游戏引擎。引擎将完整游戏体验构建在实时互动视频流之上，创作者仅需定义规则与玩法，角色场景可实时生成。",
+        "link": "https://mp.weixin.qq.com/s/u-X53sZlAT9sZdTzTHw8cg",
+        "source": "爱诗科技 AIsphere",
+        "date": "2026-07-14"
+      },
+      {
+        "title": "Looki 完成数亿元 A1 轮融资",
+        "detail": "Looki（光智时空）完成数亿元A1轮融资，元生资本领投，BAI资本等老股东加注。公司定位个人智能可穿戴赛道，通过PIE主动式AI引擎2.0实现从”被动响应”到”主动预测”的升级，结合场景理解与长期记忆预判用户下一步需求。其首款可穿戴多模态AI硬件出货量预计达10万台。",
+        "link": "https://mp.weixin.qq.com/s/HX9oilSs0Q2Lor6KSZUVVw",
+        "source": "Founder Park",
+        "date": "2026-07-14"
       }
     ]
   },
-  "updatedAt": "2026-07-14T02:02:20.992Z"
+  "updatedAt": "2026-07-14T04:53:34.892Z"
 }

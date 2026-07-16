@@ -29,8 +29,8 @@
     "updated_at": 1784143394000,
     "day_of_week": "星期四",
     "lunar_date": "丙午年六月初三",
-    "api_updated": "2026/07/16 10:09:20",
-    "api_updated_at": 1784167760051
+    "api_updated": "2026/07/16 13:06:44",
+    "api_updated_at": 1784178404540
   },
   "ai-news": {
     "date": "2026-07-16",
@@ -40,6 +40,13 @@
         "detail": "马斯克旗下 xAI 宣布开源 AI 编程智能体工具 ，并将源代码发布至 GitHub。Grok Build 是整合 Grok 模型的终端 CLI 工具，覆盖规划、搜索、编码、测试到 Git 提交的全流程开发。本次开源涵盖智能体链路、代码工具、终端 UI 及扩展系统，支持完全本地优先运行与自定义推理。",
         "link": "https://www.ithome.com/0/977/265.htm",
         "source": "IT之家",
+        "date": "2026-07-16"
+      },
+      {
+        "title": "Codex 推出首款编程键盘硬件 Codex Micro",
+        "detail": "OpenAI 联合外设厂商 Work Louder 正式推出 首款硬件 ，售价 230 美元（约 1556 元），现已开启预购。硬件专为 Codex 设计，通过 RGB 灯光实时映射 AI Agent 的工作状态，让用户无需切换窗口可掌握任务进度。旋钮可动态调节 AI 推理强度，配合摇杆与实体按键，分别用于派发工作流和执行高频决策。",
+        "link": "https://mp.weixin.qq.com/s/KbeZRFLlMgWBNdY6UTbIag",
+        "source": "APPSO",
         "date": "2026-07-16"
       },
       {
@@ -58,5 +65,5 @@
       }
     ]
   },
-  "updatedAt": "2026-07-16T02:09:25.292Z"
+  "updatedAt": "2026-07-16T05:13:16.572Z"
 }

@@ -29,12 +29,34 @@
     "updated_at": 1784486643000,
     "day_of_week": "星期一",
     "lunar_date": "丙午年六月初七",
-    "api_updated": "2026/07/20 10:33:32",
-    "api_updated_at": 1784514812834
+    "api_updated": "2026/07/20 03:32:57",
+    "api_updated_at": 1784489577462
   },
   "ai-news": {
     "date": "2026-07-20",
-    "news": []
+    "news": [
+      {
+        "title": "阿里推出Qwen3.8-Max预览版模型，正式版即将发布并开源",
+        "detail": "阿里千问推出，Qwen3.8将正式发布并全面开源，模型参数达2.4T，官方称模型可能是除Fable 5外最强大的模型。目前Qwen3.8-Max预览版已率先上线阿里Token Plan、及平台，用户可抢先体验。",
+        "link": "https://mp.weixin.qq.com/s/10m799tks4zuUiBAPP88Pw",
+        "source": "千问大模型",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "趣丸科技推出旗舰级AI音乐生成大模型 Tempolor v4.7",
+        "detail": "趣丸科技发布（天谱乐大模型V4.7），接入对话式音乐智能体并开放API。新版本聚焦可控编辑，升级Remix改写与翻唱Cover能力，支持细粒度音频调整，让AI音乐从一键成曲走向随心修改。模型采用第四代分层渐进式架构，整体性能提升约20%，输出48kHz双声道音频。",
+        "link": "https://mp.weixin.qq.com/s/EDXk0WzfUF5d3463_8ZMew",
+        "source": "趣丸科技",
+        "date": "2026-07-20"
+      },
+      {
+        "title": "字节跳动Seed推出音频创作模型 Seed Audio 1.0",
+        "detail": "字节跳动Seed推出音频创作模型，面向完整声音场景统一建模人声、音效与环境声，实现端到端影视级音频创作。模型支持多要素统一编排与100ms精度时间控制，可基于参考音频保持长时音色一致，覆盖20+语种自然生成。评测显示多数场景音频可用率超90%。",
+        "link": "https://mp.weixin.qq.com/s/PekpwKtiFo2GfR4YmLVLWw",
+        "source": "字节跳动Seed",
+        "date": "2026-07-20"
+      }
+    ]
   },
-  "updatedAt": "2026-07-20T02:33:38.739Z"
+  "updatedAt": "2026-07-20T05:42:45.208Z"
 }

@@ -29,8 +29,8 @@
     "updated_at": 1784575736000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年六月初八",
-    "api_updated": "2026/07/21 10:11:41",
-    "api_updated_at": 1784599901404
+    "api_updated": "2026/07/21 10:50:39",
+    "api_updated_at": 1784602239223
   },
   "ai-news": {
     "date": "2026-07-21",
@@ -40,6 +40,13 @@
         "detail": "面壁智能在WAIC 2026上开源首个具身智能成果系列模型，包含通用VLA模型RobotManip与跟踪导航模型RobotTrack。Manip用极小参数实现比肩更大模型的性能，支持1分钟原生记忆且推理成本减半；Track为业内首个支持本地断网部署的跟踪模型，可在无网环境下稳定运行。",
         "link": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
         "source": "面壁智能",
+        "date": "2026-07-21"
+      },
+      {
+        "title": "昆仑万维开源新一代可交互世界模型 Matrix-Game 3.5",
+        "detail": "昆仑万维开源新一代可交互世界模型。模型通过Patch Memory与Warped PRoPE技术攻克长期记忆与几何一致性难题，实现单卡GPU上720P/20FPS实时交互，且核心功能几乎不新增参数，采用轻量化可迁移架构。团队同步构建自动化数据管线，产出超500万段高质量训练数据。",
+        "link": "https://mp.weixin.qq.com/s/TUVv2wvp4RixsblDLrvSGg",
+        "source": "昆仑万维集团",
         "date": "2026-07-21"
       },
       {
@@ -58,5 +65,5 @@
       }
     ]
   },
-  "updatedAt": "2026-07-21T02:11:44.805Z"
+  "updatedAt": "2026-07-21T05:23:09.827Z"
 }

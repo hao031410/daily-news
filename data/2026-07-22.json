@@ -29,12 +29,20 @@
     "updated_at": 1784659308000,
     "day_of_week": "星期三",
     "lunar_date": "丙午年六月初九",
-    "api_updated": "2026/07/22 10:09:45",
-    "api_updated_at": 1784686185816
+    "api_updated": "2026/07/22 10:11:08",
+    "api_updated_at": 1784686268317
   },
   "ai-news": {
     "date": "2026-07-22",
-    "news": []
+    "news": [
+      {
+        "title": "谷歌推出三款新 AI 模型，Gemini 3.6 Flash、3.5 Flash Cyber 和 3.5 Flash-Lite",
+        "detail": "谷歌推出三款新AI模型：、 和，分别主打性能提升、网络安全优化和智能体应用场景。Gemini 3.6 Flash 在编程、金融等基准测试中表现优于前代，且成本更低。Cyber 版本专为漏洞发现与修复设计，仅向政府机构和可信合作伙伴开放，以防范滥用风险。",
+        "link": "https://www.ithome.com/0/979/795.htm",
+        "source": "IT之家",
+        "date": "2026-07-22"
+      }
+    ]
   },
-  "updatedAt": "2026-07-22T02:09:51.470Z"
+  "updatedAt": "2026-07-22T05:21:56.852Z"
 }

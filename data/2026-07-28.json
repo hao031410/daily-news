@@ -29,12 +29,55 @@
     "updated_at": 1785180038000,
     "day_of_week": "星期二",
     "lunar_date": "丙午年六月十五",
-    "api_updated": "2026/07/28 10:05:42",
-    "api_updated_at": 1785204342795
+    "api_updated": "2026/07/28 13:17:17",
+    "api_updated_at": 1785215837879
   },
   "ai-news": {
-    "date": "2026-07-28",
-    "news": []
+    "date": "2026-07-27",
+    "news": [
+      {
+        "title": "Anthropic 推出新一代旗舰级模型 Claude Opus 5",
+        "detail": "Anthropic推出新一代模型，智能水平接近，价格仅为其一半。模型在Frontier-Bench、GDPval-AA等编程与知识工作评测中刷新行业纪录。Claude Opus 5在编程、商业自动化、计算机操作等场景表现亮眼，同等成本下性能领先竞品，已成为Claude Max默认模型及Pro版最强选择。",
+        "link": "https://mp.weixin.qq.com/s/XaDjlzrbgKYQA1jdYLm4GA",
+        "source": "机器之心",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "吴恩达开源个人桌面Agent「OpenWorker」",
+        "detail": "AI教育大佬吴恩达开源桌面Agent项目。与普通聊天机器人不同，工具强调直接交付完成的工作成果，可自主调用本地文件和日常办公工具链完成任务。项目主打本地优先与隐私保护，数据默认保留在用户设备上，用户可自由切换底层模型。OpenWorker目前已支持macOS，Windows测试版已开放下载。",
+        "link": "https://mp.weixin.qq.com/s/qwVRnh02GuERh8vEgDHr-A",
+        "source": "量子位",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "美团推出全场景 AI Agent 平台 CatPaw",
+        "detail": "美团正式推出全场景AI Agent平台，提供开箱即用的AI智能工作台与企业级Agent开发托管能力。平台深度融合美团本地生活行业认知，支持移动端App、PC客户端及云端7×24小时不间断运行，已在内部覆盖9万员工、搭建3万个Agent。CatPaw具备多Agent自主协同、专家与技能即装即用、跨会话长期记忆等能力。",
+        "link": "https://mp.weixin.qq.com/s/daRzJtun2EfQ8X3VVpVppQ",
+        "source": "MeituanCatPaw",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "阿里推出一站式 AI 办公工具「千问办公」",
+        "detail": "阿里正式推出一站式 AI 办公工具，开放Windows与macOS Beta版下载，主打企业IM写作、Office一站式生成、多模态理解、全栈网页生成等六大核心能力。同时，其鸿蒙电脑Beta版也上架AppGallery应用尝鲜，千问办公应用由钉钉科技开发，支持AI写作、PPT生成、文档互转及多模型切换等功能。",
+        "link": "https://www.ithome.com/0/981/982.htm",
+        "source": "IT之家",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "AI互动娱乐平台海艺宣布完成超亿元B轮融资",
+        "detail": "全球化AI互动娱乐平台宣布完成超亿元B轮融资，由视觉中国、华盖创赢、祥峰投资联合领投。海艺注册用户超6500万，海外占比超90%，毛利率超40%，已沉淀超200万个AI原生创作资产，构建起”SeaArt角色创作+MoreShort短剧消费+SeaSoul角色互动”的完整AI IP生态，从工具竞争转向内容资产与创作者生态壁垒。",
+        "link": "https://mp.weixin.qq.com/s/jeRhK138ADPotCZOUHKTDQ",
+        "source": "Z Potentials",
+        "date": "2026-07-27"
+      },
+      {
+        "title": "美国金融科技公司 Stripe 洽谈收购大模型中转站 OpenRouter",
+        "detail": "据《华尔街日报》报道，美国金融科技公司Stripe正洽谈收购大模型聚合平台，估值约100亿美元。OpenRouter作为模型路由平台，已接入400余个模型，能帮助企业灵活调用、切换不同厂商AI服务，避免被单一巨头绑定。",
+        "link": "https://mp.weixin.qq.com/s/V-VxIFAv6s14f33LpWDJ-Q",
+        "source": "智东西",
+        "date": "2026-07-27"
+      }
+    ]
   },
-  "updatedAt": "2026-07-28T02:05:47.721Z"
+  "updatedAt": "2026-07-28T05:17:23.070Z"
 }

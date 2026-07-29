@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-29",
+  "60s": {
+    "date": "2026-07-29",
+    "news": [
+      "上半年全国税费收入达 16.7 万亿元，其中税收收入超过 10 万亿元，同比增长 4.9%",
+      "2025 年度个税汇算超 1 亿纳税人享受退税 1500 多亿元，中低收入者受益面提升",
+      "上半年我国银行理财产品为投资者创造收益 3052 亿元，平均年化收益率为 2.05%",
+      "北京出台信用卡业务新规：分期业务须突出展示折算年化利率",
+      "长鑫科技将被纳入 MSCI 中国全股票指数，8 月 10 日生效",
+      "月之暗面全栈开源 Kimi K3，引爆全球开发者社区，登顶 “抱抱脸” 平台趋势榜榜首",
+      "AI 短剧上线安徽卫视，画面上明确标注 AI 制作，有人惊呼太超前，也有人吐槽没有人味",
+      "教育部：国家助学贷款累计发放 6958 亿元，惠及学生超 3000 万人",
+      "河南 “三支一扶” 高分成绩引争议，当地再回应：正进行深入核查，查实一个取消一个",
+      "奥地利拟出台法案，限制 14 岁以下儿童青少年使用社交媒体",
+      "日本熊本县 28 日发生 7.1 级强震，多处房屋倒塌，已确认数人遇难，财产损失严重",
+      "欧盟：法国和西班牙山火蔓延速度已超出现有应急处置能力",
+      "2026 年《财富》世界 500 强排行榜：亚马逊登顶，终结沃尔玛连续十二年领跑纪录",
+      "美国宣布和英国、德国、日本等 24 国组建 6G 研发联盟，旨在制定 6G 标准",
+      "俄罗斯决定组建建筑工程部队，并将俄武装力量编制总人数增至 242 万余人"
+    ],
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/LMNfgJMd0U80dUuEB9BaKxNAptL25JfhM966rV3GLhpTm5dfSLKk2m2JOOqWLFVjCPxY1HJAFgzDRNzWVa6ubUZV7yvN4SDaxYfs5ykDk6c/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "真正的成熟，不是变得无所畏惧，而是带着害怕，依然选择前行",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-07-29.png",
+    "link": "http://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247498564&idx=1&sn=23f7bf38f3d1da7b888b2d0b6487c747",
+    "created": "2026/07/29 03:47",
+    "created_at": 1785268060000,
+    "updated": "2026/07/29 03:47",
+    "updated_at": 1785268060000,
+    "day_of_week": "星期三",
+    "lunar_date": "丙午年六月十六",
+    "api_updated": "2026/07/29 06:18:23",
+    "api_updated_at": 1785277103605
+  },
+  "ai-news": {
+    "date": "2026-07-28",
+    "news": [
+      {
+        "title": "Kimi K3 开放模型权重、技术报告和关键 Infra 技术",
+        "detail": "月之暗面正式推出模型权重、技术报告及三项关键Infra技术。Kimi K3为2.8万亿参数MoE模型，具备原生视觉理解与100万token长上下文能力，规模化效率较前代提升2.5倍。同步开源MoonEP高性能通信库、FlashKDA算子及AgentEnv沙箱系统，覆盖从训练通信到分布式RL环境的关键链路。",
+        "link": "https://mp.weixin.qq.com/s/tryHe81IyM6nr0fBPDz72g",
+        "source": "月之暗面Kimi",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "蚂蚁集团等开源多智能体搜索协作框架 SearchOS",
+        "detail": "人大与蚂蚁联合推出开源多智能体搜索框架 ，能为长程复杂信息检索提供系统级协作基础设施。框架将搜索过程中的任务进度、证据关系与补全状态抽象为跨 Agent 共享的系统状态，使多个智能体能在统一调度下分工协作、避免重复与失忆。",
+        "link": "https://mp.weixin.qq.com/s/kaXWvYBERJYi2uSwafQqlg",
+        "source": "机器之心",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "微软推出首个网络安全 AI 模型 MAI-Cyber-1-Flash",
+        "detail": "微软 CEO 纳德拉官宣首个 AI 网络安全模型 ，在 CyberGym 基准测试中以 95.95% 的成功率超越Claude Mythos 5 和 等竞品。模型现已接入多智能体安全系统 MDASH，可高效处理约 90% 网络安全任务，与  组合后成本较现有配置降低近 50%。",
+        "link": "https://www.ithome.com/0/982/312.htm",
+        "source": "IT之家",
+        "date": "2026-07-28"
+      },
+      {
+        "title": "Midjourney 推出最新 AI 图像生成模型 Midjourney V8.2",
+        "detail": "Midjourney推出图像生成模型，全面升级提示词理解、风格参考逻辑与出图稳定性，风格种子一致性、垫图融合自然度及复杂场景解析力显著增强，文字渲染精准度与东方古典意境表现达到新高度，一次出图成功率大幅提升。",
+        "link": "https://ai-bot.cn/midjourney-v8-2/",
+        "source": "AI工具集",
+        "date": "2026-07-28"
+      }
+    ]
+  },
+  "updatedAt": "2026-07-29T02:08:39.636Z"
+}

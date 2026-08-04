@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-04",
+  "60s": {
+    "date": "2026-08-04",
+    "news": [
+      "中央气象台：台风 “白海豚” 继续向西偏北方向移动，7 日后将趋向我国华东沿海",
+      "多地加码购车补贴，重庆首次将 “电驴” 纳入购新政策范围",
+      "两部门：到 2030 年，建成可支撑超过 1.1 亿辆电动汽车出行的充电基础设施网络",
+      "网传 “空调 24 小时不关更省电”，电力公司回应：无依据、不建议",
+      "四川 10 家县域农商行获批解散，眉山、绵阳农商行承接 330 个网点",
+      "新规施行：未经批准不得冠名 “中国” 等字样",
+      "AI 女演员开始接广告：60 秒报价超 25 万元，赶超真人千万粉丝网红",
+      "多地牛蛙产品被曝抗生素超标，福建东山、广东澄海、广东饶平通报：涉事产品封存并抽检",
+      "DeepSeek-V4-Flash 性价比无敌？美研究机构评估：运行成本全球最低",
+      "美国将洽洽瓜子、思念水饺等纳入进口限制清单，网友调侃：美国怕人民嗑瓜子上火",
+      "美日联手干预汇市支撑日元，为 15 年来首次，美财长称或采取更多措施",
+      "1755 枚比特币被偷，约合人民币 7.43 亿元；今年上半年全球加密货币被盗总额达 9.72 亿美元",
+      "瑙鲁正式更改国名，由 “Nauru” 更改为 “Naoero”，中文译名不变",
+      "美国 13 州推进取消数据中心税收优惠，每千兆瓦 AI 算力成本或增加 30 亿美元",
+      "特朗普称与伊朗的谈判目前正在进行中，将分两阶段推进"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0UicgL4dSCE7xTlr8h9P6NPcLwPBvXz5lE6mok9MzNicAveOZsJr7ub9cXEwJCTpUGib6uRrX0ibibIYc9dQNuA0e2n3IfNRiaicSEXQWc/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "空谈换不来生活转机，放下不切实际幻想，躬身实干拓宽人生的道路",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-08-04.png",
+    "link": "https://mp.weixin.qq.com/s/XoOERCD6a1FsTxl3hgPW4A",
+    "created": "2026/08/04 07:45",
+    "created_at": 1785800712142,
+    "updated": "2026/08/04 07:45",
+    "updated_at": 1785800712142,
+    "day_of_week": "星期二",
+    "lunar_date": "丙午年六月廿二",
+    "api_updated": "2026/08/04 10:00:31",
+    "api_updated_at": 1785808831958
+  },
+  "ai-news": {
+    "date": "2026-08-03",
+    "news": [
+      {
+        "title": "阿里推出多角色 Agent 协作工作台「万有无界」",
+        "detail": "阿里云内测面向B端的AI办公平台，平台由多名数字员工组成协作小组，围绕完整项目协同推进任务。万有无界聚焦复杂项目的多智能体协同交付，进一步完善阿里AI办公产品矩阵。实测发现，自由职业者和个体创业者同样能找到适配场景，平台轻量化适配性突出。",
+        "link": "https://www.ithome.com/0/984/883.htm",
+        "source": "IT之家",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "阿里推出新一代旗舰大模型 Qwen3.8-Max",
+        "detail": "阿里云正式推出，参数规模达2.4万亿、激活参数95B，支持100万上下文Tokens，在编程、办公、科研及长程任务上全面升级，下周将开源模型权重。模型在Arena文本、代码、视觉三大榜单均位列前三，API定价国内输入12元/百万Tokens。",
+        "link": "https://mp.weixin.qq.com/s/9S8VZETppDj_AidiUFrZlw",
+        "source": "千问大模型",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "MiniMax开源新一代通用视频模型 MiniMax H3",
+        "detail": "MiniMax正式开源新一代通用视频模型 ，支持文本、图像、视频、音频多模态输入，可生成最高2K分辨率、15秒时长、32kHz立体声音频的视频。模型由H3-Context-IR、H3-Base和H3-Regenerate-2K三模块组成，H3-Base已开源并支持SGLang、vLLM等框架本地部署。",
+        "link": "https://mp.weixin.qq.com/s/2Onot41z7cUqvhnWphz09Q",
+        "source": "MiniMax 稀宇科技",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "Genspark 推出本地 AI Office 客户端 GenOffice",
+        "detail": "创始人景鲲在 AGI Playground 2026 大会上推出 ，定位为全球首个全功能开源 AI Office 套件。GenOffice客户端面向 Windows 与 Mac，支持文档、表格、幻灯片及 PDF 编辑，免费、无广告且开源。",
+        "link": "https://mp.weixin.qq.com/s/6zDwENENFS5SOCEJF91tYA",
+        "source": "极客公园",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "大模型公司西湖心辰完成B+轮数亿元融资",
+        "detail": "扩散语言模型厂商西湖心辰近日完成B+轮融资，金额达数亿元，由广发信德领投，西湖创新投、武汉江豚基金等多家机构跟投，58产业基金等产业资本及老股东蚂蚁集团、汤姆猫参与支持。本轮资金将主要用于新一代扩散语言模型研发、原生多模态实时互动产品迭代及海外市场拓展。",
+        "link": "https://mp.weixin.qq.com/s/YtHdMklath2gTkcSZVM3NA",
+        "source": "西湖心辰",
+        "date": "2026-08-03"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-04T02:04:01.826Z"
+}

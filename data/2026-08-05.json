@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-05",
+  "60s": {
+    "date": "2026-08-05",
+    "news": [
+      "气象局：发生超强厄尔尼诺事件概率增大，8 月我国暴雨、高温、台风偏多",
+      "上半年我国服务进出口总额 37797.5 亿元，同比增长 8.3%；其中出口增长 17.6%，进口增长 2.9%",
+      "7 月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+      "首个高阶自动驾驶强制性国标发布：L3 须标配驾驶人接管监测，拟于 2027 年 7 月 1 日起实施",
+      "多地停车计费试行取消 “向上取整”，“按分钟计费” 试点加速落地",
+      "广东深圳电动自行车违法与个人信用挂钩，有 50 人被录入征信",
+      "A 股又现 “大肉签”：上市首日狂飙超 140%，中一签最高赚 7.5 万元",
+      "3 家中国车企跻身全球销量前十：比亚迪排名第六，吉利排名第七，奇瑞与福特并列第九",
+      "马斯克宣布开放 Model S 和 Model X 的设计资料与软件，陶琳：技术领先不能靠守专利",
+      "SpaceX 股价跌回地表，马斯克财富一个月缩水超 2 万亿元，相当于亏掉 2 个 “黄仁勋”",
+      "韩媒宣扬 “中国游客是韩国赌场核心增长动力”，中方：深感震惊、坚决反对",
+      "日本拟提高外国人永久居留申请门槛：要求年收入超过日本平均水平；配偶申请门槛大幅提高",
+      "美国拟关闭在加拿大、日本等国的 5 处驻外机构，美方回应：将确保美国外交布局兼顾 “效率与作用”",
+      "全美 25 州提起诉讼，反对美国最新关税措施，要求废止并暂停执行",
+      "美国拉响感染警报：罕见病毒首现纽约，已波及全美 45 个州，生菜成疫情源头，无特效药无疫苗"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0UichUuPZTda1u5ibB6evPZXSycgtgoLnn1SwDMjDmbUuflC5honhAUDDB0cMJ7ycrMFlbDaZXPcYRc4iaoibYgPtxQSR7yTuMATPJc/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "真正拉开人与人差距的，从来不是天赋，是日复一日不为人知的坚持",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-08-05.png",
+    "link": "https://mp.weixin.qq.com/s/YJUjzyXpmwQRdZJ16ggFMw",
+    "created": "2026/08/05 07:27",
+    "created_at": 1785886057920,
+    "updated": "2026/08/05 07:27",
+    "updated_at": 1785886057920,
+    "day_of_week": "星期三",
+    "lunar_date": "丙午年六月廿三",
+    "api_updated": "2026/08/05 07:54:22",
+    "api_updated_at": 1785887662778
+  },
+  "ai-news": {
+    "date": "2026-08-04",
+    "news": [
+      {
+        "title": "腾讯混元推出智能体评测基准 E-Bench",
+        "detail": "腾讯混元联合清华AIR、东南大学推出  智能体评测基准，以王者荣耀、QQ音乐、腾讯会议为原型，构建含323个改状态任务、7.6万+数据行的全合成虚拟环境。通过信息鸿沟与工具鸿沟设计，防止模型凭记忆抄近道。E-Bench 评测了11个前沿模型平均成功率仅54.56%，最强模型Avg@3为73.79%，Pass³低于60%。",
+        "link": "https://mp.weixin.qq.com/s/5QIL92Vumz2E52Moo3wE9g",
+        "source": "腾讯混元",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "商汤科技与教育部教育技术与资源发展中心达成战略合作",
+        "detail": "商汤科技与教育部教育技术与资源发展中心（中央电化教育馆）签署战略合作框架协议，双方将推动AI技术在教育公共服务领域应用，促进教育技术与教学资源深度融合，赋能国家级教育服务平台智能化建设。商汤依托日日新SenseNova大模型体系与SenseCore算力基础设施，已为高校教学科研、K12教案生成等场景提供支撑。",
+        "link": "https://mp.weixin.qq.com/s/vscSzRenvb9gUfGqmt27mg",
+        "source": "商汤科技SenseTime",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "商汤科技开源原生统一多模态模型 SenseNova U1.5-Lite-Preview",
+        "detail": "商汤科技开源轻量级原生统一多模态模型，基于NEO-Unify架构，用仅8B-MoT参数贯通视觉理解、推理、生成与编辑。模型原生支持4K图像生成，在局部纹理、真实质感、中英文文字排版及复杂视觉指令遵循上显著提升，配套Prompt Enhance Skill降低长篇创作指令的编写门槛。",
+        "link": "https://mp.weixin.qq.com/s/MPT58s9PGK0al9DqZcoDPw",
+        "source": "商汤科技SenseTime",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "面壁智能开源 Stencil 全自动研究部署系统 ForgeStencil",
+        "detail": "面壁智能联合 OpenBMB 开源 ，全球首个 AI 驱动的 Stencil 全自动优化系统。ForgeStencil由 Kernel Agent 与 App Agent 双智能体协同，实现从算子研究到应用部署的全流程零人工介入。ForgeStencil 一周能完成 100 余个真实工业与科学软件的端到端优化，覆盖油气勘探、电磁仿真、医学影像等 8 大工业领域。",
+        "link": "https://mp.weixin.qq.com/s/0kSCYJNXE6s_E2QOX3DjYQ",
+        "source": "面壁智能",
+        "date": "2026-08-04"
+      },
+      {
+        "title": "帕西尼再获10亿元战略轮融资",
+        "detail": "帕西尼再获10亿元战略轮融资，累计融资35亿元，创全球触觉感知领域最高纪录。本轮由全球消费电子与半导体万亿级巨头、中银国际投资、鲲鹏基金等联合领投，老股东持续加码。帕西尼以全栈自研具身感知技术为核心，定位Physical AI时代物理交互数据基础设施，年芯片消耗量逼近100万颗，商业化与全球化布局加速推进。",
+        "link": "https://mp.weixin.qq.com/s/IK0Vhh_C5AkSUMWNGxRfCQ",
+        "source": "帕西尼感知科技",
+        "date": "2026-08-04"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-05T02:03:06.406Z"
+}

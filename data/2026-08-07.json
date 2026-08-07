@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-07",
+  "60s": {
+    "date": "2026-08-07",
+    "news": [
+      "气象台：台风 “白海豚” 可能于 9 日下午至 10 日早晨在浙江到福建北部沿海地区登陆",
+      "报告称中国暑期 “工厂游” 走红，热度同比增长超 36%，成为旅游市场新晋热门业态",
+      "安徽一景区邀自驾游客漂流凭票报销高速过路费，景区回应：不限出发地，上限 1 万元，返程不报",
+      "化妆品新国标发布：重金属部分指标实现国际领跑，从严监管儿童化妆品",
+      "一款红霉素眼膏盒子上的 “原研一致” 竟是商标，律师称极易误导消费者，药企表示：后续可能不会再用",
+      "汕头调查 “抗生素” 牛蛙，初步核实涉事企业牛蛙货源来自长沙和湛江",
+      "成都一女子发现系统漏洞 0 元买 3000 多台崭新电器，警方：已依法采取刑事强制措施",
+      "DeepSeek 宣布大幅涨价，业内人士预计 V4 Pro 正式版即将发布",
+      "宇树科技 IPO 定价 150.8 元，发行市值 609 亿元，8 月 10 日开启申购，王兴兴身家有望超 200 亿元",
+      "我国编制完成新版全月地质图：修正 “月球时钟”，更新 “物质清单”，助力深空探索",
+      "女篮世界杯最新实力榜：美国稳居第一，中国第六，日本第 10 位",
+      "刚果 (金) 将禁止铜精矿、钴精矿出口，该国钴产量全球第 1，铜产量第 2",
+      "法国下周将开始禁止 “未经同意的电话营销” 行为，违者或被罚数万至数十万欧元",
+      "美国计划建造的 15 艘 “特朗普” 级战列舰，造价或高达 2750 亿美元，美媒称美国本土船厂或不具备建造能力",
+      "美媒称美国弹药库已处于严重短缺状态，特朗普否认，称将严惩 “爆料者”"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0U9odwKjCOkeSmuPdk7lWXA6dBnAzbrburSLMY6Tjib5mbnDH6he0LyGFpCwUF9KD6VHiba4w5xVheqZqm8BUgLFOurUEfoJ007qs/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "别用别人的地图找自己的路，你的终点不在他们标注的位置",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-08-07.png",
+    "link": "https://mp.weixin.qq.com/s/Z0dFqxvxEjHLaDRU7Ye2sA",
+    "created": "2026/08/07 07:39",
+    "created_at": 1786059555983,
+    "updated": "2026/08/07 07:39",
+    "updated_at": 1786059555983,
+    "day_of_week": "星期五",
+    "lunar_date": "丙午年六月廿五",
+    "api_updated": "2026/08/07 09:00:02",
+    "api_updated_at": 1786064402781
+  },
+  "ai-news": {
+    "date": "2026-08-06",
+    "news": [
+      {
+        "title": "兔展智能推出一站式 AI 设计生产工具 RabbitVis",
+        "detail": "兔展智能推出图层级一站式AI设计工具，基于自研 UniWorld-Design 视觉大模型，将AI生成与图层级编辑深度融合。产品突破传统AI生图只能生成、难以修改的瓶颈，支持透明素材生成、图像分层拆解与持续编辑，让海报、电商图、杂志内页等设计资产可反复调整与复用。",
+        "link": "https://mp.weixin.qq.com/s/VeNtvie4gpmiBtKGofqbrQ",
+        "source": "量子位",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "Meta 推出终端编程 AI 智能体 Muse Code",
+        "detail": "Meta 推出首个编程 AI 智能体工具  测试版，由首席 AI 官汪滔领衔开发。模型基于  模型，可处理大型代码库中的完整软件工程任务，直接挑战 Anthropic 与 OpenAI 。",
+        "link": "https://www.ithome.com/0/986/268.htm",
+        "source": "IT之家",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "阿里云上线One Key MCP，一键调用多家MCP服务",
+        "detail": "阿里云上线One Key MCP服务，开发者可通过统一的API Key一键调用所有生态伙伴MCP服务，兼容、、、等主流Coding Agent，大幅简化多MCP服务的接入、鉴权与计费管理流程。用户可登录阿里云百炼平台，在MCP广场直接使用现有API Key开通并调用相关服务。",
+        "link": "https://mp.weixin.qq.com/s/6T8rXdWf5l-5_Y5iA60DoQ",
+        "source": "阿里云",
+        "date": "2026-08-06"
+      },
+      {
+        "title": "腾讯推出 AI 原生数据分析平台 Omega",
+        "detail": "腾讯推出AI原生数据分析产品，内测版名为「马尔摩斯（marmos）」，用户通过自然语言可生成完整数据仪表盘，支持持续交互修改、筛选联动与数据动态刷新。产品采用QueryRegistry数据契约与DTBridge运行时架构，叠加多层权限校验与AST只读检查，解决传统AI看板数据凝固与安全问题。",
+        "link": "https://ai-bot.cn/omega-marmos/",
+        "source": "AI工具集",
+        "date": "2026-08-06"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-07T02:26:03.341Z"
+}

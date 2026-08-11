@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-11",
+  "60s": {
+    "date": "2026-08-11",
+    "news": [
+      "今年英仙座流星雨将迎来极大，观测条件极佳，12 日晚至 13 日凌晨是观测的黄金时段",
+      "代表建议设立带薪陪考假 “中考 3 天、高考 5 天”，当地人社局回应：暂不纳入国家法定假期",
+      "湖北、广东等地部分农商行、村镇银行上调存款利率，调整幅度最高达 33 个基点",
+      "豆包推荐商品服务开始收取佣金：酒店 12%，孕产护理 18%",
+      "宇树科技：科创板 IPO 网上发行最终中签率 0.0181%，每 5500 个号中一签",
+      "钟睒睒：电商是 “板上钉钉” 的中间商，制约了感性消费，必须限制平台权力",
+      "消息称雪佛兰将停止在华销售，经销商证实：已暂停在华新车销售，在华业务转为出口",
+      "我国境内发现多起 “Sorry” 勒索病毒攻击事件，Linux 服务器成攻击目标",
+      "火箭飞行异常，中星 4B 卫星发射失利，具体原因正在进一步分析排查",
+      "国际乒联公布最新排名：王楚钦、孙颖莎稳居男女单打世界第一，日本选手张本智和升至第四",
+      "日本 7 月共有 1028 家企业破产，继 6 月后再次超过 1000 家，为 14 年来首次",
+      "韩国总统李在明要求美韩共用军事基地两年内搬迁，为工厂 “腾地”",
+      "美国 Meta 公司被控旗下平台 “成瘾算法” 令未成年人沉迷，遭索赔 1.4 万亿美元，几乎等同其全部市值",
+      "美国前总统拜登前列腺癌持续恶化，癌细胞已扩散至骨骼以外，其子称 “病痛让他饱受折磨”",
+      "哥伦比亚发生 7.5 级地震，已致多人伤亡和建筑物受损，哥伦比亚宣布进入 “国家灾难状态”"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0U98tCmebIa4Z3ib1W8K6WWic6ort2oqCNia8JPIYaJm4CnZMEOSBGStQYXpGD3uAvER26RtvzLQCiacCrn9pxO1zq1OicKUSVialrIQM/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "坚持不下去的时候问问自己，甘心一直困在平庸的现状里吗",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-08-11.png",
+    "link": "https://mp.weixin.qq.com/s/74zERBa79j6d8RPcZ5Oa1g",
+    "created": "2026/08/11 07:27",
+    "created_at": 1786404478298,
+    "updated": "2026/08/11 07:27",
+    "updated_at": 1786404478298,
+    "day_of_week": "星期二",
+    "lunar_date": "丙午年六月廿九",
+    "api_updated": "2026/08/11 08:27:34",
+    "api_updated_at": 1786408054389
+  },
+  "ai-news": {
+    "date": "2026-08-10",
+    "news": [
+      {
+        "title": "阿里推出一站式 AI 语音平台 CosyVoice Studio",
+        "detail": "阿里巴巴推出国内首个一站式AI语音平台，基于自研 Qwen-Audio 模型，集成语音记录 CosyFlow 、语音智能体 CosyAgent 和音频创作 CosyCreative 三大模块。CosyFlow支持语音转写叠加语义理解并生成结构化文本，CosyAgent可通过自然语言快速创建实时语音交互智能体，CosyCreative支持上传文档生成播客与多角色有声书。",
+        "link": "https://mp.weixin.qq.com/s/gPNaYOV4zvJqA5Xgs0jLGg",
+        "source": "阿里云",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "英伟达开源自动驾驶 AI 推理模型 Alpamayo 2 Super",
+        "detail": "NVIDIA推出智能汽车开放模型，基于Cosmos 3 Super Reasoner构建并采用OpenMDW 1.1商业许可，支持商用与微调。模型在LingoQA等辅助驾驶基准测试中排名第一，可输出轨迹规划、因果推理、元动作、自动标注及视觉问答五类结果，决策过程透明可验证。",
+        "link": "https://ai-bot.cn/alpamayo-2-super/",
+        "source": "AI工具集",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "Cloudflare 推出 AI Agent 云端轻量浏览器 Kitesurf",
+        "detail": "Cloudflare 推出，专为 AI 智能体打造的云端浏览器，基于 Workers 平台运行，支持浏览网页与填写表单，较 Chromium 更省计算资源显著降低运行成本，同时针对 AI 特性优化上下文窗口与性能表现，防范提示词注入攻击，目前 Kitesurf 处于测试阶段，正式版将在未来推出。",
+        "link": "https://www.ithome.com/0/987/374.htm",
+        "source": "IT之家",
+        "date": "2026-08-10"
+      },
+      {
+        "title": "腾讯混元团队推出 3D 世界生成框架 WorldClaw",
+        "detail": "腾讯混元3D研究团队推出 ，基于 Agent 的 3D 开放世界生成框架。框架能将一句开放式文本提示转化为可探索、可编辑的完整 3D 世界，在保持全局地形连贯性的同时，按需为局部区域生成丰富细节。WorldClaw 将地形与每个对象作为独立可编辑实例输出，支持自由视角漫游、对象级编辑及游戏引擎直接接入。",
+        "link": "https://ai-bot.cn/worldclaw/",
+        "source": "AI工具集",
+        "date": "2026-08-10"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-11T01:18:18.144Z"
+}

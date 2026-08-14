@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-14",
+  "60s": {
+    "date": "2026-08-14",
+    "news": [
+      "广东宣布上调最低工资标准，其中广深执行一类标准：广州 2680 元/月，深圳 2700 元/月",
+      "国内油价 14 日 24 时迎年内第 5 次下调，加满一箱油预计将少花 11 元左右",
+      "中疾控监测周报：全国新冠检测阳性率下降，北方省份继续上升",
+      "河南郏县五百年七孔桥局部垮塌，当地称系台风暴雨冲击大，无人伤亡",
+      "三家平台承诺在京落地 “红灯停表”：外卖骑手等红灯不再扣时间，9 月开始试运行",
+      "《生态环境法典》8 月 15 日施行：居民楼禁止新建油烟餐饮，最高罚 10 万",
+      "第二届世界人形机器人运动会 8 月 22 日开赛，将举行 51 个项目 1301 场比赛",
+      "13 日长鑫科技市值超越腾讯控股，成中国市值最高的上市公司",
+      "“张雪机车” 获颁欧盟整车型式认证证书；“张雪机车” 获红杉中国投资，投后估值达 60 亿元",
+      "中国车企攻入日系车大本营：比亚迪 “海獭”，在日本订单已超 1000 辆",
+      "美日干预不到两周，日元被 “打回原形”？美分析师：汇率干预带来的效果已基本消失",
+      "俄总统首次登上俄日争议岛屿，日方强烈抗议；俄方回应：争议岛屿过去、现在、将来都是俄领土",
+      "白宫拟议新规令美科学界 “愤怒”：封堵对华科研合作将让美国受损",
+      "报告显示德国企业破产数量目前仍处于高位，预计未来几个月还将有大量企业申请破产",
+      "美国将向中东部署华盛顿号航母替换林肯号，林肯号因超期部署中东多人精神崩溃试图跳海"
+    ],
+    "cover": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/LMNfgJMd0U8qpNOYV5y6dpaph3cDD3icoFsnSqPlaGoBLyvvzoxKDGx8OxHxj38kD60Y6tHPTk8Loga7PvY6m4rWTsiaB8y5CgJdEhXdDwVgM/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "生活难免有遗憾与坎坷，保持乐观，才能在黑暗里寻到微光",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-08-14.png",
+    "link": "https://mp.weixin.qq.com/s/7wsEX4hizI72aMCxQ4HpjA",
+    "created": "2026/08/14 08:14",
+    "created_at": 1786666448478,
+    "updated": "2026/08/14 08:14",
+    "updated_at": 1786666448478,
+    "day_of_week": "星期五",
+    "lunar_date": "丙午年七月初二",
+    "api_updated": "2026/08/14 08:30:06",
+    "api_updated_at": 1786667406203
+  },
+  "ai-news": {
+    "date": "2026-08-13",
+    "news": [
+      {
+        "title": "DeepSeek-V4-Pro 正式版上线",
+        "detail": "DeepSeek 推出  正式版，已同步在、和API上线。该版本Agent能力显著增强，在Terminal Bench、DeepSWE等评测集上表现优异。API新增原生支持OpenAI Responses API格式，适配；思考模式新增low/high/max三档可选。",
+        "link": "https://mp.weixin.qq.com/s/XGzdn5Kk5jmaM9XYAy9JMg",
+        "source": "DeepSeek",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "DeepSeek Harness 开发者预览版开放测试",
+        "detail": "开发者预览版（v0.1 版本）面向全球 Harness 开发者开放测试，并同步以MIT协议开源。产品采用”一切皆插件”架构，基于Cordis插件系统构建，模型、工具、技能等Agent能力均可自由替换组合。提供标准、PTC、极简、创造四种运行模式，支持完整工具调用与自定义预设。",
+        "link": "https://mp.weixin.qq.com/s/mANdGRI4fO_sEbC1ECEoZQ",
+        "source": "DeepSeek Harness 团队",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "SpaceXAI 推出 AI Agent 系统 Grok Bot",
+        "detail": "SpaceXAI 推出 AI Agent 产品，可登录用户账号在云端独立运行，24 小时不间断执行任务。每个 Bot 拥有专属云计算机，支持多 Bot 并行协作、Bot 间通信，可自主创建新 Bot。Grok Bot 产品原型为 xAI 收购 Cursor 前其内部代号「Sand」的 Agent 项目。",
+        "link": "https://mp.weixin.qq.com/s/VOMprzcbm93k6QqgoYJ5ZA",
+        "source": "APPSO",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "SpaceXAI 推出最新一代旗舰大模型 Grok 4.6",
+        "detail": "SpaceXAI正式推出模型，进一步强化长时间智能体任务、复杂交互及视觉工作能力，可处理资料研究、代码库分析等复杂任务。在AA Intelligence Index综合基准测试中，Grok 4.6与GPT-5.6 Sol取得相同成绩。",
+        "link": "https://www.ithome.com/0/988/999.htm",
+        "source": "IT之家",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "小红书开源语音合成基座模型 dots.tts",
+        "detail": "小红书 dots 团队与上海交通大学 X-LANCE 实验室联合开源，一款 20 亿参数、全连续隐空间自回归 TTS 基座模型。模型不依赖离散声学 Token，在零样本声音克隆评测 Seed-TTS-Eval 上达到 SOTA，支持音色微调与语音编辑。",
+        "link": "https://mp.weixin.qq.com/s/OMV1laUJ599AGrHo3Okq0Q",
+        "source": "机器之心",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "记忆功能上线，让 Meoo 越用越懂你",
+        "detail": "上线记忆功能，支持自动整理并保存用户的个人背景、工作习惯、回应风格及项目规则等长期有效信息，在后续对话中智能调用。记忆分为仅本人可见的”个性化记忆”，含用户画像、工作手册、回应风格、记忆碎片和团队共享的应用记忆两类。",
+        "link": "https://mp.weixin.qq.com/s/tsVpnr_C-i0M63j_-FS7bQ",
+        "source": "秒悟Meoo",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "LTX 开源 AI 视频生成基础模型 LTX-2.5",
+        "detail": "开放世界模型公司 LTX 发布，原生集成 ComfyUI。在 2 张英伟达 GB200 上，生成 10 秒 720P 视频仅需 6.8 秒，API 版 23.7 秒输出 1080P。新模型具备更高像素保真度、多镜头连贯性及扩散保真渲染技术。用户可通过 Hugging Face、ComfyUI 及 API 调用。",
+        "link": "https://www.ithome.com/0/988/766.htm",
+        "source": "IT之家",
+        "date": "2026-08-13"
+      },
+      {
+        "title": "Qwen 团队开源 Qwen3.8-2.4T-A95B 模型权重",
+        "detail": "Qwen团队开源模型，为Qwen-Max级别首次开放权重。该MoE模型总参数2.4T、每Token激活95B，原生支持256K上下文，重点提升编程、办公、科研及长周期Agent能力。在PaperBench、TerminalBench等多项评测中表现领先，支持SGLang、vLLM等框架部署，默认思考模式且支持推理深度调节。",
+        "link": "https://mp.weixin.qq.com/s/1k60peCqunczN-YwQrmJLw",
+        "source": "魔搭ModelScope社区",
+        "date": "2026-08-13"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-14T01:27:51.621Z"
+}

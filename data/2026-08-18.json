@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-18",
+  "60s": {
+    "date": "2026-08-17",
+    "news": [
+      "2026 年暑期档电影总票房已突破 100 亿元，单日票房连续 37 天破亿元",
+      "央视财经曝光暑期游乱象：999 元低价游，一段行程更换 5 家旅行社",
+      "多地社会工作部正密集发出提醒：社会工作部不能简称为 “社工部”",
+      "内蒙古多地公布乡镇街道、部门 “一把手” 微信二维码，拓宽群众诉求表达渠道",
+      "加油新规 11 月起正式实施：全国成品油零售加油站全面推广 “交易即开票”，报销更便捷",
+      "甘肃一高校披露：省内普通类文史缩招近两成，生源质量不降反升",
+      "美国知名宠物冻干品牌 VE 试吃装被曝 “爬出活虫”，涉事店铺：正抽检溯源",
+      "WTT 欧洲大满贯：王曼昱 4 比 2 战胜队友王艺迪获得冠军",
+      "中国队在第 38 届国际信息学奥赛斩获 3 金 1 银，并取得团体第一名的优异成绩",
+      "消息称诺基亚计划关闭中国杭州研发中心，裁员 1600 人",
+      "泰国计划于 2027 年初开始向入境旅客收取旅游费，每人 450 泰铢",
+      "韩国首尔首次购房人数确实创下四年多来的新高，楼市热度显著回升",
+      "莫迪再次承诺印度将在 2047 年成为发达国家，并建立完整制造业供应链",
+      "澳大利亚新南威尔士州将于 11 月启动枪支回购计划，每支最高获 1000 澳元补偿",
+      "美媒称特朗普对福特级航母外观不满意，考虑大幅调整设计，使其更接近二战时期的美国航母外形"
+    ],
+    "cover": "https://mmbiz.qpic.cn/mmbiz_jpg/LMNfgJMd0U8vicCdrpM4NQP2ucfOc3oKN7AupXuhWC6bibmo0k8bww6owQy7STpxWlOOG8JibnvNke4EjnwYPYfSibyLoAC9o21ribcER5vYfjYU/640?wx_fmt=jpeg&from=appmsg",
+    "tip": "努力这件事没有观众席，你不上场，永远不知道自己什么水平",
+    "image": "https://cdn.jsdmirror.com/gh/vikiboss/60s-static-host@main/static/images/2026-08-17.png",
+    "link": "https://mp.weixin.qq.com/s/v6CCoJnT7assE7KGq6nzdQ",
+    "created": "2026/08/17 07:46",
+    "created_at": 1786923970086,
+    "updated": "2026/08/17 07:46",
+    "updated_at": 1786923970086,
+    "day_of_week": "星期一",
+    "lunar_date": "丙午年七月初六",
+    "api_updated": "2026/08/18 08:56:51",
+    "api_updated_at": 1787014611530
+  },
+  "ai-news": {
+    "date": "2026-08-17",
+    "news": [
+      {
+        "title": "Stripe以超过70亿美元价格收购 OpenRouter",
+        "detail": "支付巨头Stripe已敲定收购AI基础设施初创公司，交易金额超70亿美元（约473亿元人民币）。OpenRouter为用户提供统一入口，可在超400种AI模型间按需选择，全球用户达800万。公司今年5月B轮融资估值约13亿美元，此次收购价为其5倍以上，将成为近年AI基础设施领域重大收购案之一。",
+        "link": "https://www.ithome.com/0/990/410.htm",
+        "source": "IT之家",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "阿里巴巴推出 AI 音乐模型 HappyShrimp",
+        "detail": "阿里巴巴推出AI音乐模型（快乐虾米），支持端到端整曲生成，实现作词、作曲、编曲、演唱一体成型。模型深度理解自然语言，用户仅需描述情绪或故事即可创作，大幅降低音乐创作门槛，同时解决AI音乐人声机械、词曲错位等痛点。",
+        "link": "https://mp.weixin.qq.com/s/m23WObHP1flpzMnhJLvn5g",
+        "source": "阿里云",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "Qwen-Audio-3.0系列语音模型正式上线千问AI平台",
+        "detail": "阿里巴巴Qwen-Audio-3.0系列语音模型正式上线千问AI平台，开发者可通过API或Token Plan调用。Qwen-Audio-3.0系列包括语音识别大模型Qwen-Audio-3.0-ASR、语音合成大模型、实时语音交互对话模型。目前已在、等产品中落地应用。",
+        "link": "https://mp.weixin.qq.com/s/yb4-PDno5NaacES9RfxIEA",
+        "source": "千问AI平台",
+        "date": "2026-08-17"
+      },
+      {
+        "title": "SpaceXAI以600亿美元正式完成收购 Cursor",
+        "detail": "SpaceX以600亿美元正式收购，团队将加入SpaceXAI共同开发系列及Cursor产品。这是史上最大规模的创业公司收购案。将借助SpaceX全球最大GPU集群获得更强算力，同时xAI发布全新AI队友产品，可24/7自主运行多步骤真实任务。",
+        "link": "https://www.ithome.com/0/989/944.htm",
+        "source": "IT之家",
+        "date": "2026-08-17"
+      }
+    ]
+  },
+  "updatedAt": "2026-08-18T00:56:54.501Z"
+}
